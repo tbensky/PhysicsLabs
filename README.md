@@ -23,6 +23,12 @@ The Data folder contains pairs of images, like 001_drop.jpg and 001_crater.jpg. 
 * Al ball, mass=22.7 +/- 0.01 g, dia=25.64 +/- 0.01 cm
 
 
+## Speed of Light
+
+The speed of light here is measured using a time-of-flight measurement of a pulse of light. The pulse is emitted from an LED, bounced off of a retroreflecting mirror, and detected back near the emission point. We use [this apparatus, by Leybold](https://www.leybold-shop.com/vp5-6-2-1.html), which is a remarkable nice apparatus.  Very large throw distances are possible.
+
+
+
 
 
 

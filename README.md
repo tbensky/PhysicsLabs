@@ -28,7 +28,6 @@ The Data folder contains pairs of images, like 001_drop.jpg and 001_crater.jpg. 
 ### Data Analysis
 
 * Plot log of diameter (y-axis) vs log of projectile energy. Slope should be the scaling-law power.
-
 * Include data point of Barringer Crater on the plot (look it up somewhere).
 
 

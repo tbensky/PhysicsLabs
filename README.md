@@ -5,6 +5,8 @@ This repository conatains "virtualized" advanced physics labs. They were made du
 
 There are no data-derived results here, but everything posted will allow you to arrive at the results yourself. In other words, you must engage in each lab, "take data" from any videos or images, understand how each works, and do the analysis to arrive at a given result.
 
+It is hoped the quaratine version of these labs allows the students to do all labs work except (unfortunately) to push the buttons on the equipment.
+
 ## Cratering
 
 Craters made by a projectile (like a small metal ball) in a porous material (like sand) follow a scaling law. Here is a [video](Labs/Cratering/Apparatus/slmo_crater.mov) of a crater being formed. This scaling law also included large cratering events, like that of the Barringer Crater.  

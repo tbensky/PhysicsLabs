@@ -11,7 +11,7 @@ It is hoped the quaratine version of these labs allows the students to do all la
 
 Craters made by a projectile (like a small metal ball) in a porous material (like sand) follow a scaling law. Here is a [video](Labs/Cratering/Apparatus/slmo_crater.mov) of a crater being formed. This scaling law also included large cratering events, like that of the Barringer Crater.  
 
-The scaling is between the ingoing (kinetic) energy of the projectile vs the diameter of the eventual crater.  The scaling law involves a fractional power.  In the case where energies of in the ingoing projectile do not vaporize the sand/crater (i.e. all energy is mechanical), the power is 0.25.  See the paper in the Info folder. The apparatus looks [like this.](Labs/Cratering/Apparatus/app01.jpg)
+The scaling is between the ingoing (kinetic) energy of the projectile vs the diameter of the eventual crater.  The scaling law involves a fractional power.  In the case where energies of in the ingoing projectile do not vaporize the sand/crater (i.e. all energy is mechanical), the power is 0.25.  See [this paper](Labs/Cratering/Info/crater_paper.pdf).  The apparatus looks [like this.](Labs/Cratering/Apparatus/app01.jpg)
 
 ### Data Taking
 

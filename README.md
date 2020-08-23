@@ -17,7 +17,7 @@ The apparatus used here looks [like this.](Labs/Cratering/Apparatus/app01.jpg)
 
 ### Data Taking
 
-In the Data folder, you'll find pairs of images, like 001_drop.jpg and 001_crater.jpg.  Each pair shows the drop height of a small metal ball and an image of the resulting crater, which a ruler placed on top of it.  Ball parameters:
+The Data folder contains pairs of images, like 001_drop.jpg and 001_crater.jpg.  Each pair shows the drop height of a small metal ball and an image of the resulting crater, with a ruler placed on top of it.  Ball parameters:
 
 * Iron ball, mass=65.29 +/- 0.01 g, dia=25.81 +/- 0.01 cm
 * Al ball, mass=22.7 +/- 0.01 g, dia=25.64 +/- 0.01 cm

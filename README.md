@@ -38,7 +38,7 @@ The pulse is emitted from an LED, bounced off of a retroreflecting mirror, and d
 
 ### Equipment Tour
 
-Here are some video tours of the apparatus.
+Here are some videos to tour the apparatus.
 
 * [Equipment tour](https://youtu.be/ECmtT5igG9U)
 * [A look at the electronic signals](https://youtu.be/v5UShpYjyic)

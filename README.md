@@ -25,7 +25,7 @@ The Data folder contains pairs of images, like 001_drop.jpg and 001_crater.jpg. 
 
 ## Speed of Light
 
-The speed of light here is measured using a time-of-flight measurement of a pulse of light. The pulse is emitted from an LED, bounced off of a retroreflecting mirror, and detected back near the emission point. We use [this apparatus, by Leybold](https://www.leybold-shop.com/vp5-6-2-1.html), which is a remarkable nice apparatus.  Very large throw distances are possible.
+The speed of light here is measured using a time-of-flight measurement of a pulse of light. The pulse is emitted from an LED, bounced off of a retroreflecting mirror, and detected back near the emission point. We use [this apparatus, by Leybold](https://www.leybold-shop.com/vp5-6-2-1.html), which is a remarkably nice apparatus.  Very large throw distances are possible and the optical alignment is straightforward.
 
 
 

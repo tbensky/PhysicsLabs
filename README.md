@@ -45,7 +45,7 @@ Here are some videos to tour the apparatus.
 
 * [Equipment tour](https://youtu.be/ECmtT5igG9U)
 * [A look at the electronic signals](https://youtu.be/v5UShpYjyic)
-* [A quick sample of data taking]()
+* [A quick sample of data taking](https://youtu.be/q8Z7qvWdWgA)
 
 ### Data Taking
 

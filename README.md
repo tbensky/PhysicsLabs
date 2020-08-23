@@ -3,9 +3,9 @@
 
 This repository conatains "virtualized" advanced physics labs. They were made during the Spring and Fall of 2020, to allow physics majors to continue their degree progress during the world-wide COVID-19 pandemic. 
 
-There are no data-derived results here, but everything posted will allow you to arrive at the results yourself. In other words, you must engage in each lab, "take data" from any videos or images, understand how each works, and do the analysis to arrive at a given result.
+There are no data-derived results here, but everything posted allows one to arrive at a results themselves. In other words, one must engage in each lab, "take data" from any videos or images, understand how each works, and do the analysis to arrive at a given result.
 
-It is hoped the quaratine version of these labs allows the students to do all labs work except (unfortunately) to push the buttons on the equipment.
+It is hoped this "quaratine version" of these labs will allow the student to have a full "lab experience" minus (unfortunately) pushing the buttons on the equipment.
 
 ## Cratering
 

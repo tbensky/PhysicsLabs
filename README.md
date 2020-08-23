@@ -25,6 +25,12 @@ The Data folder contains pairs of images, like 001_drop.jpg and 001_crater.jpg. 
 * Iron ball, mass=65.29 +/- 0.01 g, dia=25.81 +/- 0.01 cm
 * Al ball, mass=22.7 +/- 0.01 g, dia=25.64 +/- 0.01 cm
 
+### Data Analysis
+
+* Plot log of diameter (y-axis) vs log of projectile energy. Slope should be the scaling-law power.
+
+* Include data point of Barringer Crater on the plot (look it up somewhere).
+
 
 ## Speed of Light
 

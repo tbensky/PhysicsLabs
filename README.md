@@ -30,8 +30,8 @@ The speed of light here is measured using a time-of-flight measurement of a puls
 <p align="center">
 <img src="https://render.githubusercontent.com/render/math?math=c=\frac{d}{t}">
 </p>
-to find c, the speed of light from the throw distance d and the flight time t.
 
+to find c, the speed of light from the throw distance d and the flight time t.
 
 The pulse is emitted from an LED, bounced off of a retroreflecting mirror, and detected back near the emission point. We use [this apparatus, by Leybold](https://www.leybold-shop.com/vp5-6-2-1.html), which is a remarkably nice apparatus.  Very large throw distances are possible and the optical alignment is straightforward. (In this case, it was done in the author's driveway during quarantine.)
 

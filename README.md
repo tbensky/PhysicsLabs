@@ -1,7 +1,7 @@
 # Advanced Physics Labs
 
 
-This repository conatains "virtualized" advanced physics labs. They were made during the Spring and Fall of 2020, to allow physics majors to continue their degree progress during the world-wide COVID-19 pandemic. 
+This repository conatains "virtualized" advanced physics labs. They were made during the Spring and Fall of 2020, to allow physics majors at [https://physics.calpoly.edu](Cal Poly, San Luis Obispo), to continue their degree progress during the world-wide COVID-19 pandemic. 
 
 There are no data-derived results here, but everything posted allows one to arrive at a results themselves. In other words, one must engage in each lab, "take data" from any videos or images, understand how each works, and do the analysis to arrive at a given result.
 

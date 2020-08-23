@@ -1,8 +1,9 @@
 # Advanced Physics Labs
 
 
-This repository conatains "virtualized" advanced physics labs. There are generally no results here. You must engage in each lab, 
-understand how each works, and do the analysis yourself to obtain a given result.
+This repository conatains "virtualized" advanced physics labs. They were made during the Spring and Fall of 2020, to allow physics majors to continue their degree progress during the world-wide COVID-19 pandemic. 
+
+There are generally no results here. One must engage in each lab, "take data" from any videos or images, understand how each works, and do the analysis to obtain a given result.
 
 ## Cratering
 

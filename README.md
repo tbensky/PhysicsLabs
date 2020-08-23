@@ -28,7 +28,7 @@ The Data folder contains pairs of images, like 001_drop.jpg and 001_crater.jpg. 
 The speed of light here is measured using a time-of-flight measurement of a pulse of light then using
 
 <p align="center">
-<img src="https://render.githubusercontent.com/render/math?math=c=\frac{d}{t},">
+<img src="https://render.githubusercontent.com/render/math?math=c=\frac{d}{t}">
 </p>
 to find c, the speed of light from the throw distance d and the flight time t.
 

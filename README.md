@@ -5,7 +5,7 @@ This repository conatains "virtualized" advanced physics labs. They were made du
 
 There are no data-derived results here, but everything posted allows one to arrive at a results themselves. In other words, one must engage in each lab, "take data" from any videos or images, understand how each works, and do the analysis to arrive at a given result.
 
-It is hoped the "quaratine versions" of the labs will allow the student to have as full of a "lab experience" as possible, minus (unfortunately) pushing the buttons on the equipment.
+It is hoped the "quaratine versions" of the labs will allow the student to have as full of a "lab experience" as possible, minus (unfortunately) pushing the buttons on the equipment. 
 
 ## Cratering
 
@@ -48,6 +48,14 @@ Here are some videos to tour the apparatus.
 * [A quick sample of data taking](https://youtu.be/q8Z7qvWdWgA)
 
 ### Data Taking
+
+### Data Analysis
+
+Data should be analyzed in two ways:
+
+* A curve fit of d vs t and slope is speed
+
+* Repeated d/t computations and a standard deviation of the mean (since one has an opportunity to compute the speed of light many times).
 
 
 

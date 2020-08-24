@@ -41,7 +41,7 @@ The speed of light here is measured using a time-of-flight measurement of a puls
 
 to find c, the speed of light from the throw distance d and the flight time t.
 
-The pulse is emitted from an LED, bounced off of a retroreflecting mirror, and detected back near the emission point. We use [this apparatus, by Leybold](https://www.leybold-shop.com/vp5-6-2-1.html), which is a remarkably nice apparatus.  Very large throw distances are possible and the optical alignment is straightforward. (In this case, it was done in the author's driveway during quarantine.)
+The pulse is emitted from an LED, bounced off of a retroreflecting mirror, and detected back near the emission point. We use [this apparatus, by Leybold](https://www.leybold-shop.com/vp5-6-2-1.html), which is a remarkably robust apparatus.  Very large throw distances are possible and the optical alignment is straightforward. (In this case, it was done in the author's driveway during quarantine.)
 
 
 ### Equipment Tour
@@ -58,9 +58,9 @@ Here are some videos to tour the apparatus.
 
 Data should be analyzed in two ways:
 
-* A curve fit of d vs t and slope is speed
+* A curve fit of travel distance vs t and slope is speed.
 
-* Repeated d/t computations and a standard deviation of the mean (since one has an opportunity to compute the speed of light many times).
+* The data allows for repeated individual d/t computations, so the average of these and standard deviation of the mean should be computed.
 
 
 

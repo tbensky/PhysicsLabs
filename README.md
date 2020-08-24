@@ -18,12 +18,14 @@ The scaling is between the ingoing (kinetic) energy of the projectile vs the dia
 
 The apparatus used here looks [like this.](Labs/Cratering/Apparatus/app01.jpg)  Operating it is straightforward: the ball is loaded into a spring-loaded clamp. When released, the ball falls into a bucket of sand below.
 
-### Data Taking
-
-The Data folder contains pairs of images, like 001_drop.jpg and 001_crater.jpg.  Each pair shows the drop height of a small metal ball and an image of the resulting crater, with a ruler placed on top of it.  Ball parameters:
-
 * Iron ball, mass=65.29 +/- 0.01 g, dia=25.81 +/- 0.01 cm
 * Al ball, mass=22.7 +/- 0.01 g, dia=25.64 +/- 0.01 cm
+
+### Data Taking
+
+The Data folder contains pairs of images, like `001_drop.jpg` and `001_crater.jpg`.  Each pair shows the drop height of a small metal ball and an image of the resulting crater, with a ruler placed on top of it.  Ball parameters:
+
+* Record all uncertainties in the drop height and crater diameter.
 
 ### Data Analysis
 
@@ -54,15 +56,30 @@ Here are some videos to tour the apparatus.
 
 ### Data Taking
 
-The Data folder contains pairs of images, like 01_oscope.jpg and 01_retro.jpg.  Each pair shows the pulses received from the speed of light module and the location (distance) of the retromirror relative to the module.
+The Data folder contains pairs of images, like `01_oscope.jpg` and `01_retro.jpg`.  Each pair shows the pulses received from the speed of light module and the location (distance) of the retromirror relative to the module.
+
+* Record all uncertainties in times and retromirror distances.
 
 ### Data Analysis
 
 Data should be analyzed in two ways:
 
-* A curve fit of travel distance vs t and slope is speed.
+* A curve fit of travel distance vs t and slope is speed. Get uncertainty in slope from fit routine.
 
-* The data allows for repeated individual d/t computations, so the average of these and standard deviation of the mean should be computed.
+* Since the data allows for repeated individual c (=d/t) computations, the average of these and standard deviation of the mean should also be computed, and compared to the curve fit.
+
+
+## Magnetic Torque
+
+A cue ball riding on an air bearing is made to oscillate and precess in a magnetic field
+
+### Equipment Tour
+
+* Cue ball mass: 141.60 +/- 0.01 g.
+
+### Data Analysis
+
+
 
 
 

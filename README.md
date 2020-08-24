@@ -7,7 +7,7 @@ There are no data-derived results here, but everything posted allows one to arri
 
 It is hoped the "quaratine versions" of the labs will allow the student to have as full of a "lab experience" as possible, minus (unfortunately) pushing the buttons on the equipment. 
 
-## Cratering
+## Lab 1: Cratering
 
 Craters made by a projectile (like a small metal ball) in a porous material (like sand) follow a scaling law. Here is a [video](Labs/Cratering/Apparatus/slmo_crater.mov) of a crater being formed. This scaling law also includes large cratering events, like that of the Barringer Crater.  
 
@@ -31,7 +31,7 @@ The Data folder contains pairs of images, like 001_drop.jpg and 001_crater.jpg. 
 * Include data point of Barringer Crater on the plot (look it up somewhere).
 
 
-## Speed of Light
+## Lab 2: Speed of Light
 
 The speed of light here is measured using a time-of-flight measurement of a pulse of light then using
 
@@ -53,6 +53,8 @@ Here are some videos to tour the apparatus.
 * [A quick sample of data taking](https://youtu.be/q8Z7qvWdWgA)
 
 ### Data Taking
+
+The Data folder contains pairs of images, like 01_oscope.jpg and 01_retro.jpg.  Each pair shows the pulses received from the speed of light module and the location (distance) of the retromirror relative to the module.
 
 ### Data Analysis
 

@@ -97,11 +97,12 @@ A cue ball riding on an air bearing is made to oscillate and precess in a magnet
 		1. Click on to give it focus
 		1. Hold down Shift key (mouse icon becomes a cross hair).
 		1. Click on white dot on the ball as many times as needed so you can determine it's spin speed (Ts).
+
 	* Determine ball's precessional period (Tp):
-		1. You don't need tracker for this.
-		1. Just play a precXX.mov video.
-			1. Read the current off of the analog meter. Get the B field from the relation above.
-			1. Time the precessional period of the ball (Tp).
+		* You don't need tracker for this.
+		* Just play a precXX.mov video.
+			* Read the current off of the analog meter. Get the B field from the relation above.
+			* Time the precessional period of the ball (Tp).
 	* B, Ts and Tp become a data point triplet for the ball.
 
 ##### Data Analysis
@@ -112,10 +113,10 @@ A cue ball riding on an air bearing is made to oscillate and precess in a magnet
 
 #### Ball as a spherical pendulum
 * In folder `Pendulum` watch osc01.mov and osc02.mov. 
-* Find period of pendulum's oscillation (T).
-* Note many periods are possible in `osc02` as current is changed periodically.
-* Read the current off of the analog meter. Get the B field from the relation above.
-* B and each T become a data pair for the ball.
+	* Find period of pendulum's oscillation (T).
+	* Note many periods are possible in `osc02` as current is changed periodically.
+	* Read the current off of the analog meter. Get the B field from the relation above.
+	* B and each T become a data pair for the ball.
 
 ##### Data Analysis
 * Plot <img src="https://render.githubusercontent.com/render/math?math=T^2"> vs. <img src="https://render.githubusercontent.com/render/math?math=1/B">. Slope is 4 Pi^2 I/(mu B), where I is the moment of intertia and mu is the magnetic moment.

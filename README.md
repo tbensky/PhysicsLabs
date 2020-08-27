@@ -80,7 +80,45 @@ A cue ball riding on an air bearing is made to oscillate and precess in a magnet
 * Magnetic field: B(I)=(1.36 +/- 0.03) x 10^-3 T/A
 * Coils: radius=0.109 m, diameter=0.138 m
 
-### Data Analysis
+### Data Taking
+
+#### Precessional motion
+* Data comes in video pairs. 
+	* spinXX.mov is a SLOMO (240 fps) shot to determine to ball's spin speed.  
+	* precXX.mov is the ball subsequently precessing in the magnetic field (be sure to read current from analog meter).
+* Use [Tracker](https://physlets.org/tracker/) to find spin speed the ball. 
+	* Open spinXX.mov into Tracker.
+	* Be sure to set in "Clip Settings" (little film-strip icon in toolbar) to 240 fps or 1/240=0.004167 s per frame.
+	* Determine ball's spin period (Ts):
+		1. Load in video
+		1. Set Frame dt to 0.004167s (film strip icon).
+		1. Pulldown Track->New->Point mass...
+		1. Click on to give it focus
+		1. Hold down Shift key (mouse icon becomes a cross hair).
+		1. Click on white dot on the ball as many times as needed so you can determine it's spin speed (Ts).
+	* Determine ball's precessional period (Tp):
+		1. You don't need tracker for this.
+		1. Just play a precXX.mov video.
+			1. Read the current off of the analog meter. Get the B field from the relation above.
+			1. Time the precessional period of the ball (Tp).
+	* B, Ts and Tp become a data point triplet for the ball.
+
+##### Data Analysis
+	* Plot precessional frequency (y) vs B (x). 
+	* Slope is <img src="https://render.githubusercontent.com/render/math?math=\mu/L"> where L=angular momentum of the ball, and <img src="https://render.githubusercontent.com/render/math?math=c=\mu"> is its magnetic moment.
+	* Find <img src="https://render.githubusercontent.com/render/math?math=c=\mu">
+
+
+#### Ball as a spherical pendulum
+* Watch osc01.mov and osc02.mov. Find period of pendulum's oscillation.
+* Note many periods are possible in osc02 as current is changed periodically.
+* Read the current off of the analog meter. Get the B field from the relation above.
+* Plot <img src="https://render.githubusercontent.com/render/math?math=T^2"> vs. <img src="https://render.githubusercontent.com/render/math?math=1/B">. Slope is <img src="https://render.githubusercontent.com/render/math?4\pi^2I/(\mu B)"/>, where I is the moment of intertia. 
+* Find <img src="https://render.githubusercontent.com/render/math?math=c=\mu">
+
+
+
+
 
 
 

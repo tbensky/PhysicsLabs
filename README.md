@@ -107,7 +107,7 @@ A cue ball riding on an air bearing is made to oscillate and precess in a magnet
 
 ##### Data Analysis
 * The theory says that <img src="https://render.githubusercontent.com/render/math?math=\Omega_p=\frac{\mu}{L}B"> where <img src="https://render.githubusercontent.com/render/math?math=\Omega_p"> is the precessional frequency in rad/s, L is the angular momentum of the ball, B the magnetic field, and <img src="https://render.githubusercontent.com/render/math?math=\mu"> is the ball's magnetic moment.
-* Find a linearized form of the theory. Plot data to match and do a curve fit to find <img src="https://render.githubusercontent.com/render/math?math=\mu">. Compare with above.
+* Find a linearized form of the theory. Plot data to match and do a linear curve fit to find <img src="https://render.githubusercontent.com/render/math?math=\mu">. Compare with above.
 
 
 #### Ball as a spherical pendulum
@@ -119,7 +119,7 @@ A cue ball riding on an air bearing is made to oscillate and precess in a magnet
 
 ##### Data Analysis
 * The theory says that The theory says that <img src="https://render.githubusercontent.com/render/math?math=T^2=\frac{4\pi^2I}{\mu%20B}"> with <img src="https://render.githubusercontent.com/render/math?math=I=\frac{2}{5}mr^2">.
-* Find a linearized form of the theory. Plot data to match and do a curve fit to find <img src="https://render.githubusercontent.com/render/math?math=\mu">. Compare with above.
+* Find a linearized form of the theory. Plot data to match and do a linear curve fit to find <img src="https://render.githubusercontent.com/render/math?math=\mu">. Compare with above.
 
 
 

@@ -112,7 +112,7 @@ A cue ball riding on an air bearing is made to oscillate and precess in a magnet
 
 #### Ball as a spherical pendulum
 * In folder `Pendulum` watch `osc01.mov` and `osc02.mov`. 
-	* Find period of pendulum's oscillation (T).
+	* Find period of pendulum's oscillation (<img src="https://render.githubusercontent.com/render/math?math=T_{osc}">).
 	* Note many periods are possible in `osc02` as current is changed periodically.
 	* Read the current off of the analog meter. Get the B field from the relation above.
 	* B and each T become a data pair for the ball.

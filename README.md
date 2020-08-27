@@ -85,8 +85,8 @@ A cue ball riding on an air bearing is made to oscillate and precess in a magnet
 
 #### Precessional motion
 * In folder `SpinPrecess` data comes in video pairs: 
-	* spinXX.mov is a SLOMO (240 fps) shot to determine to ball's spin speed.  
-	* precXX.mov is the ball subsequently precessing in the magnetic field (be sure to read current from analog meter).
+	* `spinXX.mov` is a SLOMO (240 fps) shot to determine to ball's spin speed.  
+	* `precXX.mov` is the ball subsequently precessing in the magnetic field (be sure to read current from analog meter).
 * Use [Tracker](https://physlets.org/tracker/) to find spin speed the ball. 
 	* Open spinXX.mov into Tracker.
 	* Be sure to set in "Clip Settings" (little film-strip icon in toolbar) to 240 fps or 1/240=0.004167 s per frame.
@@ -100,9 +100,9 @@ A cue ball riding on an air bearing is made to oscillate and precess in a magnet
 
 	* Determine ball's precessional period (Tp):
 		* You don't need tracker for this.
-		* Just play a precXX.mov video.
+		* Just play a `precXX.mov` video.
 			* Read the current off of the analog meter. Get the B field from the relation above.
-			* Time the precessional period of the ball (Tp).
+			* Time the precessional period of the ball (Tp) (With your phone's stopwatch? Video playback time?)
 	* B, Ts and Tp become a data point triplet for the ball.
 
 ##### Data Analysis
@@ -112,7 +112,7 @@ A cue ball riding on an air bearing is made to oscillate and precess in a magnet
 
 
 #### Ball as a spherical pendulum
-* In folder `Pendulum` watch osc01.mov and osc02.mov. 
+* In folder `Pendulum` watch `osc01.mov` and `osc02.mov`. 
 	* Find period of pendulum's oscillation (T).
 	* Note many periods are possible in `osc02` as current is changed periodically.
 	* Read the current off of the analog meter. Get the B field from the relation above.

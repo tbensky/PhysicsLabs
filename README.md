@@ -79,7 +79,7 @@ A cue ball riding on an air bearing is made to oscillate and precess in a magnet
 * Cue ball radius: 53.5 +/- 0.2 mm
 * Magnetic field: B(I)=(1.36 +/- 0.03) x 10^-3 T/A
 * Coils: radius=0.109 m, diameter=0.138 m
-* I=2/5 mr^2.
+* Moment of inertia of the ball: <img src="https://render.githubusercontent.com/render/math?math=I=\frac{2}{5}mr^2">
 
 ### Data Taking
 

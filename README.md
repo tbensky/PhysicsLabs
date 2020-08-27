@@ -118,7 +118,7 @@ A cue ball riding on an air bearing is made to oscillate and precess in a magnet
 	* B and each T become a data pair for the ball.
 
 ##### Data Analysis
-* The theory says that <img src="https://render.githubusercontent.com/render/math?math=T_{osc}^2=\frac{4\pi^2I}{\mu%20B}"> with <img src="https://render.githubusercontent.com/render/math?math=I=\frac{2}{5}mr^2">, B the magnetic field, and  <img src="https://render.githubusercontent.com/render/math?math=T_{osc}"> the pendulum's period.
+* The theory says that <img src="https://render.githubusercontent.com/render/math?math=T_{osc}^2=\frac{4\pi^2I}{\mu%20B}"> with <img src="https://render.githubusercontent.com/render/math?math=I=\frac{2}{5}mr^2">, B the magnetic field, <img src="https://render.githubusercontent.com/render/math?math=T_{osc}"> the pendulum's period, and and <img src="https://render.githubusercontent.com/render/math?math=\mu"> is the ball's magnetic moment.
 * Find a linearized form of the theory. Plot data to match and do a linear curve fit to find <img src="https://render.githubusercontent.com/render/math?math=\mu">. Compare with above.
 
 

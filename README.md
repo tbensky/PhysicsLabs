@@ -106,7 +106,7 @@ A cue ball riding on an air bearing is made to oscillate and precess in a magnet
 
 ##### Data Analysis
 * Plot precessional frequency (y) vs B (x). 
-* Slope is <img src="https://render.githubusercontent.com/render/math?math=\mu/L"> where L=angular momentum of the ball, and <img src="https://render.githubusercontent.com/render/math?math=c=\mu"> is its magnetic moment.
+* Slope is <img src="https://render.githubusercontent.com/render/math?math=\mu/L"> where L=angular momentum of the ball, and <img src="https://render.githubusercontent.com/render/math?math=\mu"> is its magnetic moment.
 * Find <img src="https://render.githubusercontent.com/render/math?math=\mu"> and compare to below.
 
 

@@ -106,15 +106,15 @@ A cue ball riding on an air bearing is made to oscillate and precess in a magnet
 ##### Data Analysis
 * Plot precessional frequency (y) vs B (x). 
 * Slope is <img src="https://render.githubusercontent.com/render/math?math=\mu/L"> where L=angular momentum of the ball, and <img src="https://render.githubusercontent.com/render/math?math=c=\mu"> is its magnetic moment.
-* Find <img src="https://render.githubusercontent.com/render/math?math=c=\mu">
+* Find <img src="https://render.githubusercontent.com/render/math?math=\mu"> and compare to above.
 
 
 #### Ball as a spherical pendulum
 * Watch osc01.mov and osc02.mov. Find period of pendulum's oscillation.
 * Note many periods are possible in osc02 as current is changed periodically.
 * Read the current off of the analog meter. Get the B field from the relation above.
-* Plot <img src="https://render.githubusercontent.com/render/math?math=T^2"> vs. <img src="https://render.githubusercontent.com/render/math?math=1/B">. Slope is <img src="https://render.githubusercontent.com/render/math?4\pi^2I/(\mu B)"/>, where I is the moment of intertia. 
-* Find <img src="https://render.githubusercontent.com/render/math?math=c=\mu">
+* Plot <img src="https://render.githubusercontent.com/render/math?math=T^2"> vs. <img src="https://render.githubusercontent.com/render/math?math=1/B">. Slope is <img src="https://render.githubusercontent.com/render/math?4\pi^2I/(B\muB)"/>, where I is the moment of intertia. 
+* Find <img src="https://render.githubusercontent.com/render/math?math=\mu"> and compare to above.
 
 
 

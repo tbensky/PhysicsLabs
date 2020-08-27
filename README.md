@@ -106,7 +106,11 @@ A cue ball riding on an air bearing is made to oscillate and precess in a magnet
 	* B, Ts and Tp become a data point triplet for the ball.
 
 ##### Data Analysis
-* The theory says that <img src="https://chart.googleapis.com/chart?cht=tx&chl=\Omega_p=\frac{\mu}{L}B"> where <img src="https://chart.googleapis.com/chart?cht=tx&chl=\Omega_p"> is the precessional frequency in rad/s, L is the angular momentum of the ball, and <img src="https://chart.googleapis.com/chart?cht=tx&chl=\mu"> is the ball's magnetic moment.
+* The theory says that 
+
+<img src="https://chart.googleapis.com/chart?cht=tx&chl=\Omega_p=\frac{\mu}{L}B"> 
+
+where <img src="https://chart.googleapis.com/chart?cht=tx&chl=\Omega_p"> is the precessional frequency in rad/s, L is the angular momentum of the ball, B the magnetic field, and <img src="https://chart.googleapis.com/chart?cht=tx&chl=\mu"> is the ball's magnetic moment.
 * Find <img src="https://render.githubusercontent.com/render/math?math=\mu"> and compare to below.
 
 

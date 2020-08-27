@@ -110,7 +110,7 @@ A cue ball riding on an air bearing is made to oscillate and precess in a magnet
 
 <img src="https://render.githubusercontent.com/render/math?math=\Omega_p=\frac{\mu}{L}B"> 
 
-where <img src="https://chart.googleapis.com/chart?cht=tx&chl=\Omega_p"> is the precessional frequency in rad/s, L is the angular momentum of the ball, B the magnetic field, and <img src="https://chart.googleapis.com/chart?cht=tx&chl=\mu"> is the ball's magnetic moment.
+where <img src="https://render.githubusercontent.com/render/math?math=\Omega_p"> is the precessional frequency in rad/s, L is the angular momentum of the ball, B the magnetic field, and <img src="https://render.githubusercontent.com/render/math?math=\mu"> is the ball's magnetic moment.
 * Find <img src="https://render.githubusercontent.com/render/math?math=\mu"> and compare to below.
 
 

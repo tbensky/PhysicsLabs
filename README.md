@@ -122,7 +122,9 @@ where <img src="https://chart.googleapis.com/chart?cht=tx&chl=\Omega_p"> is the 
 	* B and each T become a data pair for the ball.
 
 ##### Data Analysis
-* The theory says that The theory says that <img src="https://chart.googleapis.com/chart?cht=tx&chl=T^2=\frac{4\pi^2I}{\mu%20B}"> with <img src="https://chart.googleapis.com/chart?cht=tx&chl=I=\frac{2}{5}mr^2">.
+* The theory says that The theory says that 
+<img src="https://chart.googleapis.com/chart?cht=tx&chl=T^2=\frac{4\pi^2I}{\mu%20B}"> 
+with <img src="https://chart.googleapis.com/chart?cht=tx&chl=I=\frac{2}{5}mr^2">.
 * Find a linearized form of the theory. Plot data to match and do a curve fit to find <img src="https://chart.googleapis.com/chart?cht=tx&chl=\mu">. Compare with above.
 
 

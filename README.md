@@ -76,6 +76,9 @@ A cue ball riding on an air bearing is made to oscillate and precess in a magnet
 ### Equipment Tour
 
 * Cue ball mass: 141.60 +/- 0.01 g.
+* Cue ball radius: 53.5 +/- 0.2 mm
+* Magnetic field: B(I)=(1.36 +/- 0.03) x 10^-3 T/A
+* Coils: radius=0.109 m, diameter=0.138 m
 
 ### Data Analysis
 

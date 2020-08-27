@@ -3,9 +3,9 @@
 
 This repository conatains "virtualized" advanced physics labs. They were made during the Spring and Fall of 2020, to allow physics majors at [Cal Poly, San Luis Obispo](https://physics.calpoly.edu) to continue their degree progress during the world-wide COVID-19 pandemic. 
 
-There are no data-derived results here, but everything posted allows one to arrive at a results themselves. In other words, one must engage in each lab, "take data" from any videos or images, understand how each works, and do the analysis to arrive at a given result.
+No data analysis is done here. That is left to the student. Everything posted should allow one to "take data," then arrive at results themselves. In other words, one must engage in each lab, "take data" from any videos or images, understand how each works, and do the analysis to arrive at a given result.
 
-It is hoped the "quaratine versions" of the labs will allow the student to have as full of a "lab experience" as possible, minus (unfortunately) pushing the buttons on the equipment. 
+It is hoped the "quaratine versions" of the labs will allow the student to have as full of a lab experience as possible, minus (unfortunately) pushing the buttons on the equipment. 
 
 ## Lab 1: Cratering
 
@@ -69,7 +69,7 @@ Data should be analyzed in two ways:
 * Since the data allows for repeated individual c (=d/t) computations, the average of these and standard deviation of the mean should also be computed, and compared to the curve fit.
 
 
-## Magnetic Torque
+## Lab: Magnetic Torque
 
 A cue ball riding on an air bearing is made to oscillate and precess in a magnetic field
 
@@ -85,8 +85,8 @@ A cue ball riding on an air bearing is made to oscillate and precess in a magnet
 
 #### Precessional motion
 * In folder `SpinPrecess` data comes in video pairs: 
-	* `spinXX.mov` is a SLOMO (240 fps) shot to determine to ball's spin speed.  
-	* `precXX.mov` is the ball subsequently precessing in the magnetic field (be sure to read current from analog meter).
+	* `spinXX.mov` is a SLOMO (240 fps) video to determine to ball's spin speed.  
+	* `precXX.mov` is the ball subsequently precessing (due to spinXX's spin speed) in the magnetic field (be sure to read current from analog meter).
 * Use [Tracker](https://physlets.org/tracker/) to find spin speed the ball. 
 	* Open spinXX.mov into Tracker.
 	* Be sure to set in "Clip Settings" (little film-strip icon in toolbar) to 240 fps or 1/240=0.004167 s per frame.
@@ -106,8 +106,7 @@ A cue ball riding on an air bearing is made to oscillate and precess in a magnet
 	* B, Ts and Tp become a data point triplet for the ball.
 
 ##### Data Analysis
-* Plot precessional frequency (y) vs B (x). 
-* Slope is <img src="https://render.githubusercontent.com/render/math?math=\mu/L"> where L=angular momentum of the ball, and <img src="https://render.githubusercontent.com/render/math?math=\mu"> is its magnetic moment.
+* The theory says that <img src="https://chart.googleapis.com/chart?cht=tx&chl=\Omega_p=\frac{\mu}{L}B"> where <img src="https://chart.googleapis.com/chart?cht=tx&chl=\Omega_p"> is the precessional frequency in rad/s, L is the angular momentum of the ball, and <img src="https://chart.googleapis.com/chart?cht=tx&chl=\mu"> is the ball's magnetic moment.
 * Find <img src="https://render.githubusercontent.com/render/math?math=\mu"> and compare to below.
 
 
@@ -119,8 +118,8 @@ A cue ball riding on an air bearing is made to oscillate and precess in a magnet
 	* B and each T become a data pair for the ball.
 
 ##### Data Analysis
-* Plot <img src="https://render.githubusercontent.com/render/math?math=T^2"> vs. <img src="https://render.githubusercontent.com/render/math?math=1/B">. Slope is 4 Pi^2 I/(mu B), where I is the moment of intertia and mu is the magnetic moment.
-* Find <img src="https://render.githubusercontent.com/render/math?math=\mu"> and compare to above.
+* The theory says that The theory says that <img src=https://chart.googleapis.com/chart?cht=tx&chl=T^2=\frac{4\pi^2I}{\mu%20B}> with <img src=https://chart.googleapis.com/chart?cht=tx&chl=I=\frac{2}{5}mr^2>.
+* Find a linearized form of the theory. Plot data to match and do a curve fit to find <img src=https://chart.googleapis.com/chart?cht=tx&chl=\mu>. Compare with above.
 
 
 

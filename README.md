@@ -79,11 +79,12 @@ A cue ball riding on an air bearing is made to oscillate and precess in a magnet
 * Cue ball radius: 53.5 +/- 0.2 mm
 * Magnetic field: B(I)=(1.36 +/- 0.03) x 10^-3 T/A
 * Coils: radius=0.109 m, diameter=0.138 m
+* I=2/5 mr^2.
 
 ### Data Taking
 
 #### Precessional motion
-* Data comes in video pairs. 
+* In folder `SpinPrecess` data comes in video pairs: 
 	* spinXX.mov is a SLOMO (240 fps) shot to determine to ball's spin speed.  
 	* precXX.mov is the ball subsequently precessing in the magnetic field (be sure to read current from analog meter).
 * Use [Tracker](https://physlets.org/tracker/) to find spin speed the ball. 
@@ -110,9 +111,11 @@ A cue ball riding on an air bearing is made to oscillate and precess in a magnet
 
 
 #### Ball as a spherical pendulum
-* Watch osc01.mov and osc02.mov. Find period of pendulum's oscillation.
-* Note many periods are possible in osc02 as current is changed periodically.
+* In folder `Pendulum` watch osc01.mov and osc02.mov. 
+* Find period of pendulum's oscillation (T).
+* Note many periods are possible in `osc02` as current is changed periodically.
 * Read the current off of the analog meter. Get the B field from the relation above.
+* B and each T become a data pair for the ball.
 * Plot <img src="https://render.githubusercontent.com/render/math?math=T^2"> vs. <img src="https://render.githubusercontent.com/render/math?math=1/B">. Slope is 4 Pi^2 I/(mu B), where I is the moment of intertia and mu is the magnetic moment.
 * Find <img src="https://render.githubusercontent.com/render/math?math=\mu"> and compare to above.
 

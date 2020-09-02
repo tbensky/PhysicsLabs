@@ -111,6 +111,11 @@ A beam of electrons are sent through an evacualted bell containing rarified Heli
 
 ### Equipment Tour
 
+* [Equipment Tour]()
+
+* [Tour showing effects of magnetic field and stopping potential]()
+
+
 ### Data Taking
 
 ### Data Analysis

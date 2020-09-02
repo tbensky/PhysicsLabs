@@ -100,7 +100,7 @@ Data is in the form of videos. Watch carefully to find the stopping voltage foun
 
 ## Lab: Magnetic Torque
 
-A cue ball riding on an air bearing is made to oscillate and precess in a magnetic field
+A cue ball has a magnet embedded in it.  It rides on an air bearing is made to oscillate and precess in a magnetic field.  This is a great introduction to ESR and NMR, where it's not a cue ball, but electrons and protons in a magnetic field.
 
 ### Equipment Tour
 

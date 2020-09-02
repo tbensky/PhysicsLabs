@@ -74,7 +74,6 @@ Light of variable wavelength strikes a photocathode in a vacuum ejecting electro
 
 ### Equipment Tour
 
-Finding Planck's constant. See https://github.com/tbensky/PhysicsLabs
 
 * [Equipment tour](https://youtu.be/UlnR3R9Wb0A)
 
@@ -92,7 +91,7 @@ Data is in the form of videos. Watch carefully to find the stopping voltage foun
 
 ### Data Analysis
 
-* The govering equation is <img src="https://render.githubusercontent.com/render/math?math=\Omega_p=qV_{stop}=h\nu+\phi">, where <img src="https://render.githubusercontent.com/render/math?math=\Omega_p=qV_{stop}"> is the stopping potential, <img src="https://render.githubusercontent.com/render/math?math=h\nu"> is the photon energy, and <img src="https://render.githubusercontent.com/render/math?math=\phi"> is the work function of the photocathode. Find a linearized version of this equation and fit it to your data.
+* The govering equation is <img src="https://render.githubusercontent.com/render/math?math=qV_{stop}=h\nu+\phi">, where <img src="https://render.githubusercontent.com/render/math?math=qV_{stop}"> is the stopping potential, <img src="https://render.githubusercontent.com/render/math?math=h\nu"> is the photon energy, and <img src="https://render.githubusercontent.com/render/math?math=\phi"> is the work function of the photocathode. Find a linearized version of this equation and fit it to your data.
 
 * Find the fit, find <img src="https://render.githubusercontent.com/render/math?math=h">, or Planck's constant.  Your error vs. the known value should be <5%.
 

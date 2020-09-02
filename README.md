@@ -13,6 +13,7 @@ It is hoped the "quaratine versions" of the labs will allow the student to have 
 * [Speed of light](https://github.com/tbensky/PhysicsLabs#lab-2-speed-of-light)
 * [Photoelectric Effect](https://github.com/tbensky/PhysicsLabs#lab-3-the-photoelectric-effect)
 * [Charge-to-mass ratio for an electron](https://github.com/tbensky/PhysicsLabs#lab-4-charge-to-mass-ratio-qm)
+* [Magnetic Torque](https://github.com/tbensky/PhysicsLabs#lab-magnetic-torque)
 
 
 ## Lab 1: Cratering
@@ -111,14 +112,46 @@ A beam of electrons are sent through an evacualted bell containing rarified Heli
 
 ### Equipment Tour
 
-* [Equipment Tour]()
+Electron charge to mass ratio. See https://github.com/tbensky/PhysicsLabs
 
-* [Tour showing effects of magnetic field and stopping potential]()
+* [Equipment Tour](https://youtu.be/bee7VRBN7Vw)
 
+* [Tour showing effects of magnetic field and stopping potential](https://youtu.be/zPv0aICY5GU)
 
 ### Data Taking
 
+#### Notes
+
+* Data folder has the subfolders of 1000, 1500, 2000, 2500, 3000 
+* These numbers are the setting of the accelerating potential in Volts.
+* Within each folder are images showing the electron beam against a calibrated grid (larger squares a 1 cm on a side).
+* A given "up" file is when the magnetic field direction steers the electron beam upward.
+* A given "down" file is when the magnetic field direction steers the electron beam downward.
+* Meters show accelerating potential and current through helmholtz coil.
+* See equipment tour for characteristics of helmholtz coil.
+
+#### Suggestion
+
+Use [ImageJ](https://imagej.nih.gov/ij/download.html) to load in images and pick (x,y) points off of beam for analysis, as follows:
+
+1. Load image into ImageJ
+1. Set distance scale for image
+	1. Draw a line covering a known distance
+	1. Image->Scale
+1. On the tool bar, right click on "point tool" to make it into "multipoint" tool.
+1. Click along electron beam path. Small yellow numbered point/placeholders should appear.
+1. Edit->Selection->Select None (if needed to clear/start over)
+1. File->Save As...->XY Coordinates
+
 ### Data Analysis
+
+* Load (x,y) coordinates from beam into curve fitting software
+* y values should be found at some common x, by averaging the y-values for an "up" and "down" image
+* Fit a circle of the form <img src="https://render.githubusercontent.com/render/math?math=(x-x_0)^2+(y-y_0)^2=R^2"> to the data to determine R, the beam radius.
+* Use R, B, and V to compute q/m as in <img src="https://render.githubusercontent.com/render/math?math=q/m=\frac{2V}{R^2B^2}">
+* Find uncertainty in q/m by propagating the uncertainty in your values of R, B, and V.
+* Since you are able to compute many, many q/m values, average all q/m results and do an SDOM analysis for the uncertainty.
+
 
 
 ## Lab: Magnetic Torque

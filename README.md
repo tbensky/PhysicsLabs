@@ -146,7 +146,7 @@ Use [ImageJ](https://imagej.nih.gov/ij/download.html) to load in images and pick
 
 * Load (x,y) coordinates from beam into curve fitting software
 * y values should be found at some common x, by averaging the y-values for an "up" and "down" image
-* Fit a circle of the form <img src="https://render.githubusercontent.com/render/math?math=(x-x_0)^2+(y-y_0)^2=R^2"> to the data to determine R, the beam radius.
+* Fit a circle of the form <img src="https://render.githubusercontent.com/render/math?math=(x-x_0)^2%2B(y-y_0)^2=R^2"> to the data to determine R, the beam radius.
 * Use R, B, and V to compute q/m as in <img src="https://render.githubusercontent.com/render/math?math=q/m=\frac{2V}{R^2B^2}">
 * Find uncertainty in q/m by propagating the uncertainty in your values of R, B, and V.
 * Since you are able to compute many, many q/m values, average all q/m results and do an SDOM analysis for the uncertainty.

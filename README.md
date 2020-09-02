@@ -74,7 +74,6 @@ Light of variable wavelength strikes a photocathode in a vacuum ejecting electro
 
 ### Equipment Tour
 
-
 * [Equipment tour](https://youtu.be/UlnR3R9Wb0A)
 
 * [How the stopping potential works](https://youtu.be/q1B6ereb1_g)
@@ -87,15 +86,16 @@ Light of variable wavelength strikes a photocathode in a vacuum ejecting electro
 
 Data is in the form of videos. Watch carefully to find the stopping voltage found at each wavelength.
 
-* [Data 1](), [Data 2](), [Data 3]()
+* [Data 1](https://youtu.be/Yk_55XE365Y), [Data 2](https://youtu.be/rjwunOPkKFM), [Data 3](https://youtu.be/u1Hmcje58ZI)
 
 ### Data Analysis
+
 
 * The govering equation is <img src="https://render.githubusercontent.com/render/math?math=qV_%7Bstop%7D%3Dh%5Cnu%2B%5Cphi">, where <img src="https://render.githubusercontent.com/render/math?math=qV_{stop}"> is the stopping potential, <img src="https://render.githubusercontent.com/render/math?math=h\nu"> is the photon energy, and <img src="https://render.githubusercontent.com/render/math?math=\phi"> is the work function of the photocathode. Find a linearized version of this equation and fit it to your data.
 
 * Find the fit, find <img src="https://render.githubusercontent.com/render/math?math=h">, or Planck's constant.  Your error vs. the known value should be <5%.
 
-* Find the work function and identify the material of the photocathode.
+* Find the work function  <img src="https://render.githubusercontent.com/render/math?math=\phi"> and identify the material of the photocathode.
 
 
 ## Lab: Magnetic Torque

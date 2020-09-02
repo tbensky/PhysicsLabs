@@ -12,6 +12,7 @@ It is hoped the "quaratine versions" of the labs will allow the student to have 
 * [Cratering](https://github.com/tbensky/PhysicsLabs#lab-1-cratering)
 * [Speed of light](https://github.com/tbensky/PhysicsLabs#lab-2-speed-of-light)
 * [Photoelectric Effect](https://github.com/tbensky/PhysicsLabs#lab-3-the-photoelectric-effect)
+* [Charge-to-mass ratio for an electron](https://github.com/tbensky/PhysicsLabs#lab-4-charge-to-mass-ratio-qm)
 
 
 ## Lab 1: Cratering
@@ -113,6 +114,7 @@ A beam of electrons are sent through an evacualted bell containing rarified Heli
 ### Data Taking
 
 ### Data Analysis
+
 
 ## Lab: Magnetic Torque
 

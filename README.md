@@ -106,7 +106,7 @@ Data is in the form of videos. Watch carefully to find the stopping voltage foun
 
 * Find the work function  <img src="https://render.githubusercontent.com/render/math?math=\phi"> and identify the material of the photocathode.
 
-## Lab 4: Charge to mass ratio (q/m)
+## Lab 4: Charge to mass ratio (q/m) for the electron
 
 A beam of electrons are sent through an evacualted bell containing rarified Helium gas, causing the beam to become visible. The bell sits at the center of a Helmholtz coil. An accelerating potential sets the speed at which the electrons in the beam travel. The magnetic field allows one to steer the beam.  Finding the beam radius as a function of accelerating potential and steering field allows one to determine the charge-to-mass ratio (q/m) for an electron.
 

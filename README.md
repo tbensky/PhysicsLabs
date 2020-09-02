@@ -95,6 +95,8 @@ Data is in the form of videos. Watch carefully to find the stopping voltage foun
 
 * Find the fit, find <img src="https://render.githubusercontent.com/render/math?math=h">, or Planck's constant.  Your error vs. the known value should be <5%.
 
+* Find the work function and identify the material of the photocathode.
+
 
 ## Lab: Magnetic Torque
 

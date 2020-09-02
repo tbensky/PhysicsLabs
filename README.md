@@ -7,6 +7,13 @@ No data analysis is done here. That is left to the student. Everything posted sh
 
 It is hoped the "quaratine versions" of the labs will allow the student to have as full of a lab experience as possible, minus (unfortunately) pushing the buttons on the equipment. 
 
+# Table of contents
+
+* [Cratering](https://github.com/tbensky/PhysicsLabs#lab-1-cratering)
+* [Speed of light](https://github.com/tbensky/PhysicsLabs#lab-2-speed-of-light)
+* [Photoelectric Effect](https://github.com/tbensky/PhysicsLabs#lab-3-the-photoelectric-effect)
+
+
 ## Lab 1: Cratering
 
 Craters made by a projectile (like a small metal ball) in a porous material (like sand) follow a scaling law. Here is a [video](Labs/Cratering/Apparatus/slmo_crater.mov) of a crater being formed. This scaling law also includes large cratering events, like that of the Barringer Crater.  
@@ -97,6 +104,15 @@ Data is in the form of videos. Watch carefully to find the stopping voltage foun
 
 * Find the work function  <img src="https://render.githubusercontent.com/render/math?math=\phi"> and identify the material of the photocathode.
 
+## Lab 4: Charge to mass ratio (q/m)
+
+A beam of electrons are sent through an evacualted bell containing rarified Helium gas, causing the beam to become visible. The bell sits at the center of a Helmholtz coil. An accelerating potential sets the speed at which the electrons in the beam travel. The magnetic field allows one to steer the beam.  Finding the beam radius as a function of accelerating potential and steering field allows one to determine the charge-to-mass ratio (q/m) for an electron.
+
+### Equipment Tour
+
+### Data Taking
+
+### Data Analysis
 
 ## Lab: Magnetic Torque
 

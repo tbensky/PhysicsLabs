@@ -112,7 +112,6 @@ A beam of electrons are sent through an evacualted bell containing rarified Heli
 
 ### Equipment Tour
 
-Electron charge to mass ratio. See https://github.com/tbensky/PhysicsLabs
 
 * [Equipment Tour](https://youtu.be/bee7VRBN7Vw)
 

@@ -170,24 +170,27 @@ This lab has two parts.
 Gamma ray scintillation. See https://github.com/tbensky/PhysicsLabs
 
 * [Equipment tour](https://youtu.be/DQU8kMIjicE)
-* [Different gamma-ray sources available]()
-* [Seeing an initial gamma-ray detection signal]()
-* [Meaning of the gamma-ray signal]()
-* [Introduction to the Multichannel Analyzer (MCA) and software]()
-* [Testing the MCA with a pulse generator]()
-* [Once going, don't touch the amplifier]()
-* [Setting the amplifier for Cs137]()
+* [Different gamma-ray sources available](https://youtu.be/ENBQokl2bQk)
+* [Seeing an initial gamma-ray detection signal](https://youtu.be/7dQqvlEldsE)
+* [Meaning of the gamma-ray signal](https://youtu.be/U07gfZyLwBU)
+* [Introduction to the Multichannel Analyzer (MCA) and software](https://youtu.be/C3aaIfmzRAA)
+* [Testing the MCA with a pulse generator](https://youtu.be/czzf1ww_Oq4)
+* [Once going, don't touch the amplifier](https://youtu.be/lRGfHgcT8OY)
+* [Setting the amplifier for Cs137](https://youtu.be/k0UNZJETSQ0)
 
 ### Gamma-ray spectra
 
-* [Cs137]()
+
+Here are several different gamma-ray placed in front of the detector, showing the MCA response. Note: These were all taken with the same amplifier gain.
+
+* [Cs137](https://youtu.be/4LSs1RD3HZo)
 * [Co60]()
 * [Na22]()
 * [Ba133]()
-* [Mn54]()
+* [Mn54](https://youtu.be/8-BW4moMXl4)
 * [Am241]()
 
-Note: These were all taken with a common amplifier setting.
+
 
 ### Data Taking
 

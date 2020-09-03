@@ -216,7 +216,7 @@ A gamma-ray with energy E can Compton scatter within the detector (or its surrou
 
 Here E and E' are the gamma-ray energies, m is the electron mass and c is the speed of light (note: <img src="https://render.githubusercontent.com/render/math?math=mc^2=511 keV"> for an electron).
 
-Using your calibrated Cs137 spectrum, identify all peaks/features caused by Compton Scattering.
+Using your calibrated Cs137 spectrum, identify all peaks/features caused by Compton Scattering. For each feature, draw a "cartoon" containing a gamma-ray and electron (at rest) showing what scatter must have occurred.
 
 
 ## Lab: Magnetic Torque

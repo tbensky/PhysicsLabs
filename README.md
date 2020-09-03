@@ -184,11 +184,11 @@ Gamma ray scintillation. See https://github.com/tbensky/PhysicsLabs
 Here are several different gamma-ray placed in front of the detector, showing the MCA response. Note: These were all taken with the same amplifier gain.
 
 * [Cs137](https://youtu.be/4LSs1RD3HZo)
-* [Co60]()
-* [Na22]()
-* [Ba133]()
+* [Co60](https://youtu.be/xfGyGzG8dLY)
+* [Na22](https://youtu.be/hM8fxFAVcXo)
+* [Ba133](https://youtu.be/qluonEki0FI)
 * [Mn54](https://youtu.be/8-BW4moMXl4)
-* [Am241]()
+* [Am241](https://youtu.be/72ZYOrn5Uo8)
 
 
 
@@ -207,6 +207,14 @@ Data files (CSV files, counts vs. channel number or a "spectrum") for each are i
 * Produced an energy-axis calibrated Cs137 spectrum.
 
 #### Part II: Identify the effects of Compton Scattering in a Cs137 Spectrum
+
+A gamma-ray with energy E can Compton scatter within the detector (or its surroundings) to produce a lower energy gamma ray, E' in accordance with the Compton Scattering formula
+
+<img src="https://render.githubusercontent.com/render/math?math=E'=\frac{E}{1+\frac{E}{mc^2}(1-\cos\theta)}">
+
+Here E and E' are the gamma-ray energies, m is the electron mass and c is the speed of light (note: <img src="https://render.githubusercontent.com/render/math?math=mc^2=511 keV"> for an electron).
+
+Using your calibrated Cs137 spectrum, identify all peaks/features caused by Compton Scattering.
 
 
 

@@ -225,9 +225,9 @@ The emission of a gamma-ray is a truely random process. Despite the "click-click
 
 The probability of a gamma emission is dictated by the following: Suppose we have a series of n independent trials, each having the same probability p of success. What is the probability of finding k successes? Here the "n trials" are the nucleus wanting to decay. It will decay with a probability p. Of  the n trials, suppose k actually emit a gamma ray.  This is all dictated by the binomial distribution, which is:
 
-<img src="https://render.githubusercontent.com/render/math?math=P(k)=\begin{pmatrix}n\\k\end{pmatrix}p^k(1-p)^{n-k}">
+<img src="https://render.githubusercontent.com/render/math?math=P(\nu successes in n trials)=\begin{pmatrix}n\\\nu\end{pmatrix}p^\nu (1-p)^{n-\nu}">
 
-As you might guess, n and nk are quite large here. Even though the chance of an individual nucleus decaying, p, is vanishingly small, there are a lot of nuclei in a sample. In this case, the binomial distribution can be approximated quite well by the normal (or Gaussian) distribution or (See Eq. 8.3 on p.762 of Boas)
+As you might guess, n is quite large here. Even though the chance of an individual nucleus decaying, p, is vanishingly small, there are a lot of nuclei in a sample, thus np is finite and constant. In this case, the binomial distribution can be approximated quite well by the normal (or Gaussian) distribution with X=np and <img src="https://render.githubusercontent.com/render/math?math=\sigma=\sqrt{np(1-p)}">
 
 
 <img src="https://render.githubusercontent.com/render/math?math=P(k)=\frac{1}{\sqrt{2\pi np(1-p)}} e^{-(k-np)^2/2np(1-p)}">

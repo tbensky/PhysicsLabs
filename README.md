@@ -225,8 +225,12 @@ The emission of a gamma-ray is a truely random process. Despite the "click-click
 
 The probability of a gamma emission is dictated by the following: Suppose we have a series of n independent trials, each having the same probability p of success. What is the probability of finding k successes? Here the "n trials" are the nucleus wanting to decay. It will decay with a probability p. Of  the n trials, suppose k actually emit a gamma ray.  This is all dictated by the binomial distribution, which is:
 
-<img src="https://render.githubusercontent.com/render/math?math=P(k)=\begin{pmatrix}n\\k\end{pmatrix}">
+<img src="https://render.githubusercontent.com/render/math?math=P(k)=\begin{pmatrix}n\\k\end{pmatrix}p^k(1-p)^{n-k}">
 
+As you might guess, n, np, and nq are quite large here. Even though the chance of an individual nucleus decaying is vanishingly small, there are a lot of nuclei in a sample. In this case, the binomial distribution can be approximated quite well by the normal (or Gaussian) distribution or
+
+
+<img src="https://render.githubusercontent.com/render/math?math=\frac{1}{\sqrt{2\pi npq}e^{-(x-np)^2/2npq}}}">
 
 ## Lab: Magnetic Torque
 

@@ -157,7 +157,9 @@ Use [ImageJ](https://imagej.nih.gov/ij/download.html) to load in images and pick
 
 ## Lab 4: Gamma Ray Scintillation
 
-"Scintillation" is a detection technique for gamma-rays.  Technically, it is the process of a gamma ray depositing its energy into a NaI(Tl) detector, and causing a flash of UV light to be produced (via crystal properties and the Tl doping).  The crystal is transparent to the UV light, so the light can travel through it, to a collection cathode at one end of the detector. This causes an electron to be ejected from the photocathode (as in the photoelectric effect). Electron amplification occurs with dynodes in the detector.  A photocurrent is output from the detector, which is "the signal."
+"Scintillation" is a detection technique for gamma-rays.  Technically, it is the process of a gamma ray depositing its energy into a NaI(Tl) detector, and causing a flash of UV light to be produced (via crystal properties and the Tl doping).  The crystal is transparent to the UV light, so the light can travel through it, to a collection cathode at one end of the detector. This causes an electron to be ejected from the photocathode (as in the photoelectric effect). Electron amplification occurs with dynodes in the detector.  A photocurrent is output from the detector, which is "the signal." 
+
+Note the advantage of scitillation is that the photocurrent is proportional to the gamma ray energy. Thus scintillation detectors allow for the study of not just the presence of a gamma ray, but its energy as well.
 
 This lab has two parts.
 
@@ -208,15 +210,13 @@ Data files (CSV files, counts vs. channel number or a "spectrum") for each are i
 
 #### Part II: Identify the effects of Compton Scattering in a Cs137 Spectrum
 
-A gamma-ray with energy E can Compton scatter within the detector (or its surroundings) to produce a lower energy gamma ray, E' in accordance with the Compton Scattering formula
+A gamma-ray with energy E can Compton scatter within the detector (or its surroundings) to produce a lower energy gamma ray, E' that then may be detected and generate the signal. in accordance with the Compton Scattering formula
 
 <img src="https://render.githubusercontent.com/render/math?math=E'=\frac{E}{1%2B\frac{E}{mc^2}(1-\cos\theta)}">
 
 Here E and E' are the gamma-ray energies, m is the electron mass and c is the speed of light (note: <img src="https://render.githubusercontent.com/render/math?math=mc^2=511 keV"> for an electron).
 
 Using your calibrated Cs137 spectrum, identify all peaks/features caused by Compton Scattering.
-
-
 
 
 ## Lab: Magnetic Torque

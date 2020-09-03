@@ -1,7 +1,7 @@
 # Advanced Physics Labs
 
 
-This repository conatains "virtualized" advanced physics labs. They were made during the Spring and Fall of 2020, to allow physics majors at [Cal Poly, San Luis Obispo](https://physics.calpoly.edu) to continue their degree progress during the world-wide COVID-19 pandemic. 
+This repository conatains "virtualized" advanced physics labs. They were made during the Spring, Summer and Fall of 2020, to allow physics majors at [Cal Poly, San Luis Obispo](https://physics.calpoly.edu) to continue their degree progress during the world-wide COVID-19 pandemic. 
 
 No data analysis is done here. This is left to the student. However, everything posted under a given experiment should allow one to "take data," then arrive at results themselves. In other words, one must engage in each lab, "take data" from any videos or images, understand how each works, and do the analysis to arrive at a given result. 
 
@@ -206,7 +206,8 @@ Data files (CSV files, counts vs. channel number or a "spectrum") for each are i
 * Find the channel number of (all) distinct photopeaks in each source's spectrum.
 * Compile a list of channel number vs. energy.
 * Find a fit equation that gives a correspondence between channel number and energy
-* Produced an energy-axis calibrated Cs137 spectrum.
+* Produced an energy-axis calibrated Cs137 spectrum. 
+* Your energy axis should be in KeV or MeV
 
 #### Part II: Identify the effects of Compton Scattering in a Cs137 Spectrum
 

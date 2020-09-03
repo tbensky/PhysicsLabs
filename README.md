@@ -223,14 +223,14 @@ Using your calibrated Cs137 spectrum, identify all peaks/features caused by Comp
 
 The emission of a gamma-ray is a truely random process. Despite the "click-click-click" one hears on a handheld Geiger counter, no one can predict with certainty exactly when a gamma-ray will be emitted from a nucleus. This leaves any counting theory up to the laws of statistics.
 
-The probability of a gamma emission is dictated by the following: Suppose we have a series of n independent trials, each having the same probability p of success. What is the probability of finding k successes (here, k=np)? Here the "n trials" are the nucleus wanting to decay. It will decay with a probability p. Of  the n trials, suppose k actually emit a gamma ray.  This is all dictated by the binomial distribution, which is:
+The probability of a gamma emission is dictated by the following: Suppose we have a series of n independent trials, each having the same probability p of success. What is the probability of finding k successes? Here the "n trials" are the nucleus wanting to decay. It will decay with a probability p. Of  the n trials, suppose k actually emit a gamma ray.  This is all dictated by the binomial distribution, which is:
 
 <img src="https://render.githubusercontent.com/render/math?math=P(k)=\begin{pmatrix}n\\k\end{pmatrix}p^k(1-p)^{n-k}">
 
 As you might guess, n and nk are quite large here. Even though the chance of an individual nucleus decaying, p, is vanishingly small, there are a lot of nuclei in a sample. In this case, the binomial distribution can be approximated quite well by the normal (or Gaussian) distribution or (See Eq. 8.3 on p.762 of Boas)
 
 
-<img src="https://render.githubusercontent.com/render/math?math=P(k)=\frac{1}{\sqrt{2\pi k(1-p)}} e^{-(x-k)^2/2k(1-p)}">
+<img src="https://render.githubusercontent.com/render/math?math=P(k)=\frac{1}{\sqrt{2\pi np(1-p)}} e^{-(k-np)^2/2np(1-p)}">
 
 ## Lab: Magnetic Torque
 

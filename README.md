@@ -154,7 +154,7 @@ Use [ImageJ](https://imagej.nih.gov/ij/download.html) to load in images and pick
 * Find uncertainty in q/m by propagating the uncertainty in your values of R, B, and V.
 * Since you are able to compute many q/m values, average all q/m results and do an SDOM analysis for the uncertainty.
 
-## Gamma Ray Scintillation
+## Lab 4: Gamma Ray Scintillation
 
 "Scintillation" is a detection technique for gamma-rays.  Technically, it is the process of a gamma ray depositing its energy into a NaI(Tl) detector, and causing a flash of UV light to be produced (via crystal properties and the Tl doping).  The crystal is transparent to the UV light, so the light can travel through it, to a collection cathode at one end of the detector. This causes an electron to be ejected from the photocathode (as in the photoelectric effect). Electron amplification occurs with dynodes in the detector.  A photocurrent is output from the detector, which is "the signal."
 

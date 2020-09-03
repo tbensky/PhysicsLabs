@@ -167,9 +167,11 @@ This lab has two parts.
 
 ### Equipment Tour
 
-* [Equipment tour]()
+Gamma ray scintillation. See https://github.com/tbensky/PhysicsLabs
+
+* [Equipment tour](https://youtu.be/DQU8kMIjicE)
 * [Different gamma-ray sources available]()
-* [Seeing your first gamma-ray detection signal]()
+* [Seeing an initial gamma-ray detection signal]()
 * [Meaning of the gamma-ray signal]()
 * [Introduction to the Multichannel Analyzer (MCA) and software]()
 * [Testing the MCA with a pulse generator]()
@@ -202,6 +204,9 @@ Data files (CSV files, counts vs. channel number or a "spectrum") for each are i
 * Produced an energy-axis calibrated Cs137 spectrum.
 
 #### Part II: Identify the effects of Compton Scattering in a Cs137 Spectrum
+
+
+
 
 ## Lab: Magnetic Torque
 

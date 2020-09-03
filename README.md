@@ -210,7 +210,7 @@ Data files (CSV files, counts vs. channel number or a "spectrum") for each are i
 
 #### Part II: Identify the effects of Compton Scattering in a Cs137 Spectrum
 
-A gamma-ray with energy E can Compton scatter within the detector (or its surroundings) to produce a lower energy gamma ray, E' that then may be detected and generate the signal. in accordance with the Compton Scattering formula
+A gamma-ray with energy E can Compton scatter within the detector (or its surroundings) to produce a lower energy gamma ray, E' that then may be detected and subsequently generate the signal. E' is a function of E via the Compton Scattering formula
 
 <img src="https://render.githubusercontent.com/render/math?math=E'=\frac{E}{1%2B\frac{E}{mc^2}(1-\cos\theta)}">
 

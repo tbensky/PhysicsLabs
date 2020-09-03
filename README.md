@@ -227,10 +227,10 @@ The probability of a gamma emission is dictated by the following: Suppose we hav
 
 <img src="https://render.githubusercontent.com/render/math?math=P(k)=\begin{pmatrix}n\\k\end{pmatrix}p^k(1-p)^{n-k}">
 
-As you might guess, n, np, and nq are quite large here. Even though the chance of an individual nucleus decaying is vanishingly small, there are a lot of nuclei in a sample. In this case, the binomial distribution can be approximated quite well by the normal (or Gaussian) distribution or
+As you might guess, n, np, and nq are quite large here. Even though the chance of an individual nucleus decaying is vanishingly small, there are a lot of nuclei in a sample. In this case, the binomial distribution can be approximated quite well by the normal (or Gaussian) distribution or (See Eq. 8.3 on p.762 of Boas)
 
 
-<img src="https://render.githubusercontent.com/render/math?math=\frac{1}{\sqrt{2\pi npq}e^{-(x-np)^2/2npq}}}">
+<img src="https://render.githubusercontent.com/render/math?math=\frac{1}{\sqrt{2\pi npq} e^{-(x-np)^2/2npq}">
 
 ## Lab: Magnetic Torque
 

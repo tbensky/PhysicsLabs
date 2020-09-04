@@ -16,7 +16,7 @@ It is hoped the "quaratine versions" of the labs will allow the student to have 
 * [Photoelectric Effect](https://github.com/tbensky/PhysicsLabs#lab-3-the-photoelectric-effect)
 * [Charge-to-mass ratio for an electron](https://github.com/tbensky/PhysicsLabs#lab-4-charge-to-mass-ratio-qm-for-the-electron)
 * [Magnetic Torque](https://github.com/tbensky/PhysicsLabs#lab-magnetic-torque)
-* [Gamma-rayt Scintillation](https://github.com/tbensky/PhysicsLabs#lab-4-gamma-ray-scintillation)
+* [Gamma-ray Scintillation](https://github.com/tbensky/PhysicsLabs#lab-4-gamma-ray-scintillation)
 * [Gamma-ray Scintillation: high and low counting statistics](https://github.com/tbensky/PhysicsLabs#lab-5-gamma-ray-scitillation-high-and-low-count-statistics)
 
 
@@ -269,6 +269,7 @@ Here <img src="https://render.githubusercontent.com/render/math?math=\mu"> is th
 * You are to produce two key plots:
 	1. The histogram for the high count data shown with bars, and a smooth line for the Gaussian fit.
 	1. The histogram for the low count data shown with bars, and points for Poisson fit (evalutate the Poisson at the center x-coordinate for a given bar).
+	1. Error bars to appear on the top of each histogram bar.
 * In each of the two plots, the histogram and fit must appear on the same plot.
 * Compute the Chi-squared for each histogram vs its fit.
 * Compare the Chi-square to N, the number of bins in the histogram.

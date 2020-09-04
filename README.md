@@ -227,7 +227,7 @@ The probability of a gamma emission is dictated by the following: Suppose we hav
 
 <img src="https://render.githubusercontent.com/render/math?math=P(\nu\textrm{ successes in } n \textrm{ trials})=\begin{pmatrix}n\\\nu\end{pmatrix}p^\nu (1-p)^{n-\nu}">
 
-As you might guess, n for nuclear samples is quite large. Even though the chance of an individual nucleus decaying, p, is vanishingly small, there are a lot of nuclei in a sample, thus np is finite and constant. In this case, the binomial distribution can be approximated quite well by the normal (or Gaussian) distribution with the average value X=np and <img src="https://render.githubusercontent.com/render/math?math=\sigma=\sqrt{np(1-p)}">
+As you might guess, n for nuclear samples is quite large. Even though the chance of an individual nucleus decaying, p, is vanishingly small, there are a lot of nuclei in a sample, thus np is finite and constant. In this case, the binomial distribution can be approximated quite well by the normal (or Gaussian) distribution with the average value X=np and <img src="https://render.githubusercontent.com/render/math?math=\sigma=\sqrt{np(1-p)}"> (See pages 230 - 233 in Taylor (2nd).)
 
 
 <img src="https://render.githubusercontent.com/render/math?math=P(\nu)=\frac{1}{\sqrt{2\pi np(1-p)}} e^{-(\nu-np)^2/2np(1-p)}">
@@ -236,13 +236,27 @@ Compare this to the standard form of the Gaussian, or
 
 <img src="https://render.githubusercontent.com/render/math?math=P(\nu)=\frac{1}{\sqrt{2\pi\sigma^2}} e^{-(x-X)^2/2\sigma^2}">
 
-See pages 230 - 233 in Taylor (2nd).
+
 
 There's one more adapatation.  When the average number of successes is small, then the Gaussian can be approximated by a Poisson distribution, or
 
 <img src="https://render.githubusercontent.com/render/math?math=P_\mu(\nu)=e^{-\mu}\frac{\mu^\nu}{\nu!}">
 
 Here <img src="https://render.githubusercontent.com/render/math?math=\mu"> is the average number of counts.
+
+## Equipment Tour
+
+* [Introduction to the Single channel analyzer (SCA)]()
+* [See the SCA at work]()
+* [Introduction to the Scalar]()
+* [See high counts coming in]()
+* [See low counts coming in]()
+
+## Data Taking
+
+* See the Data folder for this experiment for two files.
+* `high_counts.csv` contains 8,000+ high count numbers
+* `low_counts.csv` contains 8,000+ low count numbers
 
 ## Lab: Magnetic Torque
 

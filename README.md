@@ -226,9 +226,9 @@ The emission of a gamma-ray is a truly random process. Despite the "click-click-
 
 The probability of a gamma emission is dictated by the following: Suppose we have a series of n independent trials, each having the same probability p of success. (A trial is a nucleus, and a success is a gamma-ray emission.)  What is the probability of finding <img src="https://render.githubusercontent.com/render/math?math=\nu"> successes? Here the "n trials" are the nucleus wanting to decay. It will decay with a probability p. Of  the n trials, suppose <img src="https://render.githubusercontent.com/render/math?math=\nu"> actually emit a gamma ray.  This is all dictated by the binomial distribution, which is:
 
-<img src="https://render.githubusercontent.com/render/math?math=P(\nu\textrm{ successes in } n \textrm{ trials})=\begin{pmatrix}n\\\nu\end{pmatrix}p^\nu (1-p)^{n-\nu}">
+<img src="https://render.githubusercontent.com/render/math?math=P(\nu,n)=\begin{pmatrix}n\\\nu\end{pmatrix}p^\nu (1-p)^{n-\nu}">
 
-The binomial distribution covers the occurrence of a "yes" or "no" type of event, where any event is independent of any other event.  It supposes there are n trials with probability p of succeeding and probability q=1-p of failing. Here <img src="https://render.githubusercontent.com/render/math?math=P(\nu)"> ask the chance of successes <img src="https://render.githubusercontent.com/render/math?math=\nu"> successes given the n trials.
+The binomial distribution covers the occurrence of a "yes" or "no" type of event, where any event is independent of any other event.  It supposes there are n trials with probability p of succeeding and probability q=1-p of failing. Here <img src="https://render.githubusercontent.com/render/math?math=P(\nu,n)"> gives the chance of  <img src="https://render.githubusercontent.com/render/math?math=\nu"> successes given the n trials.
 
 As you might guess, n for nuclear samples is quite large. Even though the chance of an individual nucleus decaying, p, is vanishingly small, there are a lot of nuclei in a sample, thus np is finite and constant. In this case, the binomial distribution can be approximated quite well by the normal (or Gaussian) distribution with the average value X=np and <img src="https://render.githubusercontent.com/render/math?math=\sigma=\sqrt{np(1-p)}"> (See pages 230 - 233 in Taylor (2nd).)
 

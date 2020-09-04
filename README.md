@@ -224,7 +224,7 @@ Using your calibrated Cs137 spectrum, identify all peaks/features caused by Comp
 
 The emission of a gamma-ray is a truly random process. Despite the "click-click-click" one hears on a handheld Geiger counter, no one can predict with certainty exactly when a gamma-ray will be emitted from a nucleus. This leaves any counting theory or prediction up to the laws of statistics. The best we can determine is a likelihood a decay will occur.
 
-The probability of a gamma emission is dictated by the following: Suppose we have a series of n independent trials, each having the same probability p of success. (A trial is a nucleus, and a success is a gamma-ray emission.)  What is the probability of finding <img src="https://render.githubusercontent.com/render/math?math=\nu"> successes? Here the "n trials" are the nucleus wanting to decay. It will decay with a probability p. Of  the n trials, suppose <img src="https://render.githubusercontent.com/render/math?math=\nu"> actually emit a gamma ray.  This is all dictated by the binomial distribution, which is:
+The probability of a gamma emission is dictated by the following: Suppose we have a series of n independent trials, each having the same probability p of success. (A trial is a nucleus, and a success is a gamma-ray emission.)  What is the probability of finding <img src="https://render.githubusercontent.com/render/math?math=\nu"> successes? Here the "n trials" are a group of nuclei wanting to decay, and each will decay with probability p. Of  the n trials, suppose <img src="https://render.githubusercontent.com/render/math?math=\nu"> actually emit a gamma ray.  This is all dictated by the binomial distribution, which is:
 
 <img src="https://render.githubusercontent.com/render/math?math=P(\nu,n)=\begin{pmatrix}n\\\nu\end{pmatrix}p^\nu (1-p)^{n-\nu}">
 
@@ -243,7 +243,7 @@ Compare this to the standard form of the Gaussian, or
 
 
 
-There's one more adapatation.  When the average number of successes is small, then the Gaussian can be approximated by a Poisson distribution, or
+There's one more adapatation.  When <img src="https://render.githubusercontent.com/render/math?math=\nu/n"> is small, the binomial distribution can be simplifed to a Poisson distribution, or
 
 <img src="https://render.githubusercontent.com/render/math?math=P_\mu(\nu)=e^{-\mu}\frac{\mu^\nu}{\nu!}">
 

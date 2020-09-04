@@ -222,11 +222,13 @@ Using your calibrated Cs137 spectrum, identify all peaks/features caused by Comp
 
 ## Lab 5: Gamma-ray Scitillation: high and low count statistics
 
-The emission of a gamma-ray is a truely random process. Despite the "click-click-click" one hears on a handheld Geiger counter, no one can predict with certainty exactly when a gamma-ray will be emitted from a nucleus. This leaves any counting theory up to the laws of statistics.
+The emission of a gamma-ray is a truly random process. Despite the "click-click-click" one hears on a handheld Geiger counter, no one can predict with certainty exactly when a gamma-ray will be emitted from a nucleus. This leaves any counting theory or prediction up to the laws of statistics. The best we can determine is a likelihood a decay will occur.
 
-The probability of a gamma emission is dictated by the following: Suppose we have a series of n independent trials, each having the same probability p of success. What is the probability of finding <img src="https://render.githubusercontent.com/render/math?math=\nu"> successes? Here the "n trials" are the nucleus wanting to decay. It will decay with a probability p. Of  the n trials, suppose <img src="https://render.githubusercontent.com/render/math?math=\nu"> actually emit a gamma ray.  This is all dictated by the binomial distribution, which is:
+The probability of a gamma emission is dictated by the following: Suppose we have a series of n independent trials, each having the same probability p of success. (A trial is a nucleus, and a success is a gamma-ray emission.)  What is the probability of finding <img src="https://render.githubusercontent.com/render/math?math=\nu"> successes? Here the "n trials" are the nucleus wanting to decay. It will decay with a probability p. Of  the n trials, suppose <img src="https://render.githubusercontent.com/render/math?math=\nu"> actually emit a gamma ray.  This is all dictated by the binomial distribution, which is:
 
 <img src="https://render.githubusercontent.com/render/math?math=P(\nu\textrm{ successes in } n \textrm{ trials})=\begin{pmatrix}n\\\nu\end{pmatrix}p^\nu (1-p)^{n-\nu}">
+
+The binomial distribution covers the occurance of a "yes" or "no" type of event, where one event is independent of any other events.  It supposes there are n trials with probability p of succeeding and probability q=1-p of failing. Here <img src="https://render.githubusercontent.com/render/math?math=P(\nu)"> ask the chance of successes <img src="https://render.githubusercontent.com/render/math?math=\nu"> successes given the n trials.
 
 As you might guess, n for nuclear samples is quite large. Even though the chance of an individual nucleus decaying, p, is vanishingly small, there are a lot of nuclei in a sample, thus np is finite and constant. In this case, the binomial distribution can be approximated quite well by the normal (or Gaussian) distribution with the average value X=np and <img src="https://render.githubusercontent.com/render/math?math=\sigma=\sqrt{np(1-p)}"> (See pages 230 - 233 in Taylor (2nd).)
 

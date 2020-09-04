@@ -232,12 +232,17 @@ As you might guess, n for nuclear samples is quite large. Even though the chance
 
 <img src="https://render.githubusercontent.com/render/math?math=P(\nu)=\frac{1}{\sqrt{2\pi np(1-p)}} e^{-(\nu-np)^2/2np(1-p)}">
 
+Compare this to the standard form of the Gaussian, or
+
+<img src="https://render.githubusercontent.com/render/math?math=P(\nu)=\frac{1}{\sqrt{2\pi\sigma^2}} e^{-(x-X)^2/2\sigma^2}">
+
 See pages 230 - 233 in Taylor (2nd).
 
 There's one more adapatation.  When the average number of successes is small, then the Gaussian can be approximated by a Poisson distribution, or
 
-<img src="https://render.githubusercontent.com/render/math?math=P_\mu(\nu)=e^-\mu\frac{\mu^\nu}{\nu!}">
+<img src="https://render.githubusercontent.com/render/math?math=P_\mu(\nu)=e^{-\mu}\frac{\mu^\nu}{\nu!}">
 
+Here <img src="https://render.githubusercontent.com/render/math?math=\mu"> is the average number of counts.
 
 ## Lab: Magnetic Torque
 

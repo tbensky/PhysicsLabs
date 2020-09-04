@@ -219,7 +219,7 @@ Here E and E' are the gamma-ray energies, m is the electron mass and c is the sp
 
 Using your calibrated Cs137 spectrum, identify all peaks/features caused by Compton Scattering. For each feature, draw a "cartoon" containing a gamma-ray and electron (at rest) showing what scatter must have occurred to generate that feature.
 
-## Gamma-ray Scitillation: high and low count statistics
+## Lab 5: Gamma-ray Scitillation: high and low count statistics
 
 The emission of a gamma-ray is a truely random process. Despite the "click-click-click" one hears on a handheld Geiger counter, no one can predict with certainty exactly when a gamma-ray will be emitted from a nucleus. This leaves any counting theory up to the laws of statistics.
 

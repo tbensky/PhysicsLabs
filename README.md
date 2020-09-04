@@ -260,9 +260,12 @@ Gamma-ray counting statistics. See https://github.com/tbensky/PhysicsLabs
 
 ## Data Taking
 
-
 * [Data taking: high counts coming in](https://youtu.be/83tOYpRW-_0)
 * [Data taking: low counts coming in](https://youtu.be/iaoJs6MpPms)
+
+### Deadtime
+
+There can be an issue with deadtime in these experiments. This would cause the detector to underreport the actual number of emissions. This is very apparent when doing this experiment with a Geiger tube (while the plasma dissipates).  The scintillation detector used here shows no obvious deadtime, given the source intensity. See the two images in [the Resources](https://github.com/tbensky/PhysicsLabs/tree/master/Labs/GammaRayHighLowCounts/Resources) folder. 
 
 ## Data Analysis
 
@@ -289,9 +292,7 @@ Gamma-ray counting statistics. See https://github.com/tbensky/PhysicsLabs
 * Run each throuh the same histogram/fit/plot/Chi-square procedure as in Part I for your hand data.
 * That is, generate two more plots each having a histogram and appropriate fit for both the high and low count data files.
 
-### Deadtime
 
-There can be an issue with deadtime in these experiments. This would cause the detector to underreport the actual number of emissions. This is very apparent when doing this experiment with a Geiger tube (while the plasma dissipates).  The scintillation detector used here shows no obvious deadtime, given the source intensity. See the two images in [the Resources](https://github.com/tbensky/PhysicsLabs/tree/master/Labs/GammaRayHighLowCounts/Resources) folder. 
 
 
 ## Lab: Magnetic Torque

@@ -223,14 +223,21 @@ Using your calibrated Cs137 spectrum, identify all peaks/features caused by Comp
 
 The emission of a gamma-ray is a truely random process. Despite the "click-click-click" one hears on a handheld Geiger counter, no one can predict with certainty exactly when a gamma-ray will be emitted from a nucleus. This leaves any counting theory up to the laws of statistics.
 
-The probability of a gamma emission is dictated by the following: Suppose we have a series of n independent trials, each having the same probability p of success. What is the probability of finding k successes? Here the "n trials" are the nucleus wanting to decay. It will decay with a probability p. Of  the n trials, suppose k actually emit a gamma ray.  This is all dictated by the binomial distribution, which is:
+The probability of a gamma emission is dictated by the following: Suppose we have a series of n independent trials, each having the same probability p of success. What is the probability of finding <img src="https://render.githubusercontent.com/render/math?math=\nu"> successes? Here the "n trials" are the nucleus wanting to decay. It will decay with a probability p. Of  the n trials, suppose <img src="https://render.githubusercontent.com/render/math?math=\nu"> actually emit a gamma ray.  This is all dictated by the binomial distribution, which is:
 
 <img src="https://render.githubusercontent.com/render/math?math=P(\nu\textrm{ successes in } n \textrm{ trials})=\begin{pmatrix}n\\\nu\end{pmatrix}p^\nu (1-p)^{n-\nu}">
 
-As you might guess, n is quite large here. Even though the chance of an individual nucleus decaying, p, is vanishingly small, there are a lot of nuclei in a sample, thus np is finite and constant. In this case, the binomial distribution can be approximated quite well by the normal (or Gaussian) distribution with the average value X=np and <img src="https://render.githubusercontent.com/render/math?math=\sigma=\sqrt{np(1-p)}">
+As you might guess, n for nuclear samples is quite large. Even though the chance of an individual nucleus decaying, p, is vanishingly small, there are a lot of nuclei in a sample, thus np is finite and constant. In this case, the binomial distribution can be approximated quite well by the normal (or Gaussian) distribution with the average value X=np and <img src="https://render.githubusercontent.com/render/math?math=\sigma=\sqrt{np(1-p)}">
 
 
-<img src="https://render.githubusercontent.com/render/math?math=P(k)=\frac{1}{\sqrt{2\pi np(1-p)}} e^{-(k-np)^2/2np(1-p)}">
+<img src="https://render.githubusercontent.com/render/math?math=P(\nu)=\frac{1}{\sqrt{2\pi np(1-p)}} e^{-(\nu-np)^2/2np(1-p)}">
+
+See pages 230 - 233 in Taylor (2nd).
+
+There's one more adapatation.  When the average number of successes is small, then the Gaussian can be approximated by a Poisson distribution, or
+
+<img src="https://render.githubusercontent.com/render/math?math=P_\mu(\nu)=e^-\mu\frac{\mu^\nu}{\nu!}">
+
 
 ## Lab: Magnetic Torque
 

@@ -254,9 +254,33 @@ Here <img src="https://render.githubusercontent.com/render/math?math=\mu"> is th
 
 ## Data Taking
 
+* Obtain all high count numbers shown in in [this video]().
+* Obtain all low count numbers shown in [this video]()
+
+## Data Analysis
+
+### Part I
+
+* Histogram both the high and low count data files
+* Vary bin width or bin number until you have a reasonable histogram with no gaps or zero population bin between other populated bins.
+* Fit a Gaussian to the high count histogram
+* Fit a Poisson to the low count histogram
+* You are to produce two key plots:
+	1. The histogram for the high count data shown with bars, and a smooth line for the Gaussian fit.
+	1. The histogram for the low count data shown with bars, and points for Poisson fit (evalutate the Poisson at the center x-coordinate for a given bar).
+* In each of the two plots, the histogram and fit must appear on the same plot.
+* Compute the Chi-squared for each histogram vs its fit.
+* Compare the Chi-square to N, the number of bins in the histogram.
+
+
+### Part II
 * See the Data folder for this experiment for two files.
-* `high_counts.csv` contains 8,000+ high count numbers
-* `low_counts.csv` contains 8,000+ low count numbers
+	1. `high_counts.csv` contains 8,000+ high count numbers
+	1. `low_counts.csv` contains 8,000+ low count numbers
+
+* Run each throuh the same histogram/fit/plot/Chi-square procedure as in Part I for your hand data.
+* That is, generate two more plots for each of the 8,000+ data files.
+
 
 ## Lab: Magnetic Torque
 

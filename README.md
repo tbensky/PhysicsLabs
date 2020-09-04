@@ -279,7 +279,7 @@ Here <img src="https://render.githubusercontent.com/render/math?math=\mu"> is th
 	1. `low_counts.csv` contains 8,000+ low count numbers
 
 * Run each throuh the same histogram/fit/plot/Chi-square procedure as in Part I for your hand data.
-* That is, generate two more plots for each of the 8,000+ data files.
+* That is, generate two more plots each having a histogram and appropriate fit for both the high and low count data files.
 
 
 ## Lab: Magnetic Torque

@@ -230,7 +230,9 @@ The probability of a gamma emission is dictated by the following: Suppose we hav
 
 The binomial distribution covers the occurrence of a "yes" or "no" type of event, where any event is independent of any other event.  It supposes there are n trials with probability p of succeeding and probability q=1-p of failing. Here <img src="https://render.githubusercontent.com/render/math?math=P(\nu,n)"> gives the chance of  <img src="https://render.githubusercontent.com/render/math?math=\nu"> successes given the n trials.
 
-As you might guess, n for nuclear samples is quite large. Even though the chance of an individual nucleus decaying, p, is vanishingly small, there are a lot of nuclei in a sample, thus np is finite and constant. In this case, the binomial distribution can be approximated quite well by the normal (or Gaussian) distribution with the average value X=np and <img src="https://render.githubusercontent.com/render/math?math=\sigma=\sqrt{np(1-p)}"> (See pages 230 - 233 in Taylor (2nd).)
+As you might guess, n for nuclear samples is quite large. Even though the chance of an individual nucleus decaying, p, is vanishingly small, there are a lot of nuclei in a sample, thus np is finite and constant. In this case, the binomial distribution can be approximated quite well by the normal (or Gaussian) distribution with the average value X=np and <img src="https://render.githubusercontent.com/render/math?math=\sigma=\sqrt{np(1-p)}"> (See pages 230 - 233 in Taylor (2nd).) You can see plots of the binomial distribution [here](https://en.wikipedia.org/wiki/Binomial_distribution#/media/File:Binomial_distribution_pmf.svg)--looks "bell shaped", no?
+
+So, <img src="https://render.githubusercontent.com/render/math?math=P(\nu,n)"> above can be written as 
 
 
 <img src="https://render.githubusercontent.com/render/math?math=P(\nu)=\frac{1}{\sqrt{2\pi np(1-p)}} e^{-(\nu-np)^2/2np(1-p)}">

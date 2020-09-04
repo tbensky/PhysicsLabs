@@ -247,20 +247,22 @@ There's one more adapatation.  When <img src="https://render.githubusercontent.c
 
 <img src="https://render.githubusercontent.com/render/math?math=P_\mu(\nu)=e^{-\mu}\frac{\mu^\nu}{\nu!}">
 
-Here <img src="https://render.githubusercontent.com/render/math?math=\mu"> is the average number of counts.
+Here <img src="https://render.githubusercontent.com/render/math?math=\mu"> is the average number of counts. More on this simplification can be found [here](https://github.com/tbensky/PhysicsLabs/blob/master/Labs/GammaRayHighLowCounts/Resources/Derivation_of_Poisson.pdf).
 
 ## Equipment Tour
 
-* [Introduction to the Single channel analyzer (SCA)]()
-* [See the SCA at work]()
-* [Introduction to the Scalar]()
-* [See high counts coming in]()
-* [See low counts coming in]()
+Gamma-ray counting statistics. See https://github.com/tbensky/PhysicsLabs
+
+* [Introduction to the Single channel analyzer (SCA)](https://youtu.be/LQg4JgmPuFs)
+* [See the SCA at work](https://youtu.be/20h5PCv3Lho)
+* [Introduction to the Scalar](https://youtu.be/FpW7T-yTIV4)
+* [Watch the software work in MCS mode](https://youtu.be/Uz11JOqhA3Q)
 
 ## Data Taking
 
-* Obtain all high count numbers shown in in [this video]().
-* Obtain all low count numbers shown in [this video]()
+
+* [Data taking: high counts coming in](https://youtu.be/83tOYpRW-_0)
+* [Data taking: low counts coming in](https://youtu.be/iaoJs6MpPms)
 
 ## Data Analysis
 
@@ -286,6 +288,10 @@ Here <img src="https://render.githubusercontent.com/render/math?math=\mu"> is th
 
 * Run each throuh the same histogram/fit/plot/Chi-square procedure as in Part I for your hand data.
 * That is, generate two more plots each having a histogram and appropriate fit for both the high and low count data files.
+
+### Deadtime
+
+There can be an issue with deadtime in these experiments. This would cause the detector to underreport the actual number of emissions. This is very apparent when doing this experiment with a Geiger tube (while the plasma dissipates).  The scintillation detector used here shows no obvious deadtime, given the source intensity. See the two images in [the Resources](https://github.com/tbensky/PhysicsLabs/tree/master/Labs/GammaRayHighLowCounts/Resources) folder. 
 
 
 ## Lab: Magnetic Torque

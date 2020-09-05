@@ -15,9 +15,9 @@ It is hoped the "quaratine versions" of the labs will allow the student to have 
 * [Speed of light](https://github.com/tbensky/PhysicsLabs#lab-2-speed-of-light)
 * [Photoelectric Effect](https://github.com/tbensky/PhysicsLabs#lab-3-the-photoelectric-effect)
 * [Charge-to-mass ratio for an electron](https://github.com/tbensky/PhysicsLabs#lab-4-charge-to-mass-ratio-qm-for-the-electron)
-* [Magnetic Torque](https://github.com/tbensky/PhysicsLabs#lab-magnetic-torque)
 * [Gamma-ray Scintillation](https://github.com/tbensky/PhysicsLabs#lab-4-gamma-ray-scintillation)
 * [Gamma-ray Scintillation: Counting Statistics](https://github.com/tbensky/PhysicsLabs#lab-5-gamma-ray-scitillation-high-and-low-count-statistics)
+* [Magnetic Torque](https://github.com/tbensky/PhysicsLabs#lab-magnetic-torque)
 
 
 ## Lab 1: Cratering
@@ -292,7 +292,17 @@ There can be an issue with deadtime in these experiments. This would cause the d
 * Run each throuh the same histogram/fit/plot/Chi-square procedure as in Part I for your hand data.
 * That is, generate two more plots each having a histogram and appropriate fit for both the high and low count data files.
 
+## Lab 6: Gamma-ray attenuation
 
+Attenuation means to make less.  So how would one make a flux of gamma-rays less? By putting some matter in the way, and the denser (i.e. more electrons), the better. Why electrons? Gamma-rays (on the order of 1 MeV or so) primarily react with matter by via the electrons in the matter (Compton Scattering and Photoelectric absorption). If absorbed, it will disppear from the original gamma-ray flux, attenuating the flux. This can also be called "shielding."
+
+In this lab, we'll place thicker and thicker amounts of lead and aluminum between a source and detector, and measure the area under the primary photopeak for a set duration of time (5 min in this case). 
+
+### Equipment tour
+
+* [Introduction](https://youtu.be/_7Bly806NmE)
+* [Monitoring only the photopeak](https://youtu.be/lTfeLD9MBi8)
+* [Example of a timed run](https://youtu.be/a04dpPIwfgE)
 
 
 ## Lab: Magnetic Torque

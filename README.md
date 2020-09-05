@@ -308,7 +308,7 @@ In this lab, we'll place thicker and thicker amounts of lead and aluminum betwee
 
 ### Data Taking
 
-In the Data folder, you'll find two sub-folders called Pb and Al (for lead and alumnium).  Each contains images of a total photopeak area after 5 minutes, with an increased number of lead or aluminum plates placed between the source and detector.
+In the `Data` folder, you'll find two sub-folders called Pb and Al (for lead and alumnium).  Each contains images of a total photopeak area after 5 minutes, with an increased number of lead or aluminum plates placed between the source and detector. In the `Resources` folder you'll find measurements of the thicknesses of the plates.
 
 ## Lab: Magnetic Torque
 

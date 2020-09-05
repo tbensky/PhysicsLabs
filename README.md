@@ -17,6 +17,7 @@ It is hoped the "quaratine versions" of the labs will allow the student to have 
 * [Charge-to-mass ratio for an electron](https://github.com/tbensky/PhysicsLabs#lab-4-charge-to-mass-ratio-qm-for-the-electron)
 * [Gamma-ray Scintillation](https://github.com/tbensky/PhysicsLabs#lab-4-gamma-ray-scintillation)
 * [Gamma-ray Scintillation: Counting Statistics](https://github.com/tbensky/PhysicsLabs#lab-5-gamma-ray-scitillation-high-and-low-count-statistics)
+* [Gamma-ray attenuation](https://github.com/tbensky/PhysicsLabs#lab-6-gamma-ray-attenuation)
 * [Magnetic Torque](https://github.com/tbensky/PhysicsLabs#lab-magnetic-torque)
 
 

@@ -306,6 +306,10 @@ In this lab, we'll place thicker and thicker amounts of lead and aluminum betwee
 * [Example of a timed run](https://youtu.be/a04dpPIwfgE)
 
 
+### Data Taking
+
+In the Data folder, you'll find two sub-folders called Pb and Al (for lead and alumnium).  Each contains images of a total photopeak area after 5 minutes, with an increased number of lead or aluminum plates placed between the source and detector.
+
 ## Lab: Magnetic Torque
 
 A cue ball has a magnet embedded in it.  It rides on an air bearing is made to oscillate and precess in a magnetic field.  This is a great introduction to ESR and NMR, where it's not a cue ball, but electrons and protons in a magnetic field.

@@ -312,7 +312,7 @@ In this lab, we'll place thicker and thicker amounts of lead and aluminum betwee
 
 * In the `Resources` folder you'll find measurements of the thicknesses of the plates.
 
-* The source used was Cs137.
+* The source used was Cs137 (663 keV gamma emitter).
 
 * Data would be photopeak area vs. total plate thickness.
 

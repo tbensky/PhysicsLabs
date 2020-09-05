@@ -295,7 +295,7 @@ There can be an issue with deadtime in these experiments. This would cause the d
 
 ## Lab 6: Gamma-ray attenuation
 
-Attenuation means to make less.  So how would one make a flux of gamma-rays less? By putting some matter in the way, and the denser (i.e. more electrons), the better. Why electrons? Gamma-rays (on the order of 1 MeV or so) primarily react with matter by via the electrons in the matter (Compton Scattering and Photoelectric absorption). If absorbed, it will disppear from the original gamma-ray flux, attenuating the flux. This can also be called "shielding."
+Attenuation means to make less, as in less intense.  So how would one make a flux of gamma-rays less intense? How would one attenuate gamma-rays? Answer: By putting some matter in the way, and the denser (i.e. more electrons), the better. Why electrons? Gamma-rays (on the order of 1 MeV or so) primarily react with matter by via the electrons in the matter (compton scattering and photoelectric absorption). If absorbed, a given gamma-ray will be removed from the original gamma-ray flux, attenuating the overall flux. This can also be called "shielding."
 
 In this lab, we'll place thicker and thicker amounts of lead and aluminum between a source and detector, and measure the area under the primary photopeak for a set duration of time (5 min in this case). 
 

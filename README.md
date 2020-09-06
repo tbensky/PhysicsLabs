@@ -326,7 +326,7 @@ In this lab, we'll place thicker and thicker amounts of lead and aluminum betwee
 
 ## Lab 8: Gamma-ray waiting times
 
-When dealing with gamma-rays, we're most used to discussing how many our detection system detects in some time interval, like 845 counts/second, etc.  Suppose we instead wondered "once we detect a gamma ray, how long to we have to wait for the *next* gamma-ray?"  Would it be 1/845 seconds? If so, would this be a constant for a given source?  Measuring the "waiting time" between gamma-ray emissions is the goal of this work. An Arduino Uno will be used to do the timing.
+When dealing with gamma-rays, we're most used to discussing how many our detection system detects in some time interval, like 845 counts/second, etc.  Suppose we instead wondered "once we detect a gamma ray, how long to we have to wait for the *next* gamma-ray?"  Would it be 1/845 seconds? If so, would this be a constant for a given source?  Measuring the "waiting time" between gamma-ray emissions is the goal of this experiment. An Arduino Uno will be used to do the timing.
 
 ### Equipment tour
 

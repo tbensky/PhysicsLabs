@@ -26,6 +26,7 @@ It is hoped the "quaratine versions" of the labs will allow the student to have 
 ### Part II
 
 * [Lab 10: Detecting Muons](https://github.com/tbensky/PhysicsLabs#lab-10-detecting-muons)
+* [Lab 11: Sun Photometry](https://github.com/tbensky/PhysicsLabs#lab-11-sun-photometry)
 
 
 ## Lab 1: Cratering

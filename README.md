@@ -337,18 +337,16 @@ When dealing with gamma-rays, we're most used to discussing how many our detecti
 
 ### Data taking
 
-Gamma-ray waiting times. See https://github.com/tbensky/PhysicsLabs
-
 In the `Data` folder you'll find two files:
 1. `cps.csv:` this contains over 8,000 counts/second measured using a scalar for a Cs137 source.
 1. `wait_times.csv:` contains osver 8,000 microsecond wait times, measured by the Arduino, between successive pulses coming from the SCA.
 
 ### Data Analysis
 
-* Histograms of the counts/second and waiting times should be made to expose the distribution in the numbers.
+* Histograms of the counts/second and waiting times should be made to reveal any distribution in long list of numbers.
 * The counts/second should be normally distributed.
 * The waiting times should show a [negative exponential distribution](https://en.wikipedia.org/wiki/Exponential_distribution).
-* Data analysis should reveal a definitive connection between the fit parameters for both data sets.
+* Data analysis should reveal a definitive connection between the fit parameters from each data sets.
 
 
 ## Lab 9: Magnetic Torque

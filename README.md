@@ -20,6 +20,7 @@ It is hoped the "quaratine versions" of the labs will allow the student to have 
 * [Gamma-ray attenuation](https://github.com/tbensky/PhysicsLabs#lab-7-gamma-ray-attenuation)
 * [Waiting times between gamma-rays](https://github.com/tbensky/PhysicsLabs#lab-8-gamma-ray-waiting-times)
 * [Magnetic Torque](https://github.com/tbensky/PhysicsLabs#lab-9-magnetic-torque)
+* [Detecting Muons](https://github.com/tbensky/PhysicsLabs#lab-10-detecting-muons)
 
 
 ## Lab 1: Cratering

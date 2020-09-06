@@ -450,7 +450,72 @@ Muons don’t interact with matter much, but there is one way of at least "provi
 
 
 
+## Lab 11: Sun Photometry
 
+Sun photometry is about measure the intensity of sunlight at a given wavelength, reaching the earth's surface, as a function of the depth of the atmosphere. There are some good papers in the `Resources` folder for this experiment explaining it all. Also see:
+
+* Mims, 20 Nov 1992, Vol 31, No. 33, Applied Optics, “Sun photometer with light-emitting...”
+* Mims,Vol. 80, No. 7, July 1999, p.1421, Bulletin of the American Meteorological Society, “An International Haze-monitoring...”
+* Brooks and Mims, Vol 106, No. D5, pp. 4733-4740, March 16, 2001, J. Geophys. Res., “Development of an inexpensive...”
+
+### Equipment Tour
+
+
+* [Tour of homemade sun photometer](https://youtu.be/dDpI8eVO0YE)
+* [Inner circuitry of sun photometer](https://youtu.be/auxPMIlgAdE)
+* [Taking data with the photometer](https://youtu.be/6iffG8b15iE)
+* [Background light level (dark current measurement](https://youtu.be/vkprQa8H2Vo)
+
+
+
+### Data Taking
+
+* All data taken for this experiment was done from San Luis Obispo, CA, USA.
+* For the Sun’s altitude at the time/date the data was taken, use: https://www.esrl.noaa.gov/gmd/grad/solcalc/azel.html. 
+* Select “Enter lat/lng” for the city.
+* San Luis Obispo is 8 hrs offset to UTC. 
+
+#### Data taken on 30-Mar-2020 
+
+
+* [9am](https://youtu.be/KprgqEzilF4)
+* [10:30am](https://youtu.be/dtLajwvRXow)
+* [11:20am](https://youtu.be/4JG3yA7refg)
+* [12:20pm](https://youtu.be/4JG3yA7refg)
+* [1:30pm](https://youtu.be/OdT4f6-nxe8)
+
+#### 02-Apr-2020
+
+* [8:57am](https://youtu.be/FM16MeE2BNU)
+* [10:35am](https://youtu.be/jWge-FOl2j4)
+* [12:15pm](https://youtu.be/wboRHxZHbqI)
+* [1:50pm](https://youtu.be/sfkHK_dQn-g)
+* [3:15pm](https://youtu.be/Xcw35FYam5E)
+* [4:45pm](https://youtu.be/erqrfmgtj40)
+
+#### 10-Apr-2020
+
+* [1:28pm](https://youtu.be/0DRO9Kgbr2Q)
+* [3:00pm](https://youtu.be/TD4Ue-PnPOM)
+* [4:20pm](https://youtu.be/lktsS1X3WTo)
+* [6:10pm](https://youtu.be/uOp8iR_hKL0)
+
+#### 14-Apr-2020
+
+* [8:23am](https://youtu.be/gNmv0MAEYj4)
+* [9:40am](https://youtu.be/JJsOQOPvIqQ)
+* [12:30pm](https://youtu.be/_WNt-0V5nHE)
+* [3:30pm](https://youtu.be/XbSZJC4k45o)
+
+### Data Analysis
+
+Lots of possibilities, but to start, one wants to find the extinction coefficient at each wavelength for a given day.  Tips:
+
+* The voltage each LED would read if the photometer was taken above the earth’s atmosphere (the extraterrestrial voltage for each LED).
+* The distance a given red, green, or blue wavelength traveled through the atmosphere, at which its exterrestrial voltage was reduced by 50%. (In other words, how far through the atmosphere does a given wavelength travel before its intensity is reduced by half?)
+* Show one ‘Langley plot’ for each day with data for all three wavelengths plotted on the same Langley plot (see Fig 5 in Acharya above; make one of these for each day of data).
+* For each wavelength on a given day, plot the ‘half voltage distance’ (y-axis) vs day (x-axis). Be sure your day scale is properly spaced (best to convert your days/times to seconds (may help). Plot all 3 wavelengths on a single plot, with clear annoations.
+* Try to come up with some connection of trends in your data to local weather conditions in SLO.
 
 
 

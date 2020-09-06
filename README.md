@@ -441,7 +441,7 @@ Muons don’t interact with matter much, but there is one way of at least "provi
 
 * See the `Data` folder for counts vs. channels for increasing runs times of the experiment. The big number in the file name is the number of seconds the acquisition was running for.
 
-* Do a curve fit to determine the Muon lifetime. Ignore the first 100 channels or so, which are due to some ill-formed pre-amp pulses causing the TAC to trigger all within the same pulse.
+* Do a curve fit to determine the Muon lifetime. Ignore the first 100 channels or so, which are due to some ill-formed pre-amp pulses causing the TAC to trigger on a single pulse.
 
 ### Resources
 

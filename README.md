@@ -593,6 +593,11 @@ We are using the [photon interference apparatus by TeachSpin](https://www.teachs
 * [Initial power up and turning of knobs](https://youtu.be/UcYX-Fkhfoc)
 * [Turning lamp intensity knob](https://youtu.be/UV-o4Jt7CUg)
 
+#### Slit used
+
+* Separation=0.406 mm, slit opening width=0.09 mm
+![Image of slit](https://github.com/tbensky/PhysicsLabs/blob/master/Labs/SinglePhotonInterference/slit.png)
+
 
 
 

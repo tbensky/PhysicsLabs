@@ -601,7 +601,7 @@ We are using the [photon interference apparatus by TeachSpin](https://www.teachs
 
 #### Single Photon Source
 
-To do this experiment, we want a single photon at a time to approach and interact with the double slit. Does the light bulb we’re using produce “one photon at a time?”  Think about it this way. The apparatus is about 1 m long, and light travels at 3108 m/s, so  it would take 3.33x10^-9s for a photon to travel from the bulb to the detector.  If you demanded that at most there is only one photon traveling down the apparatus at a time, you would insist that no more than3108 (=1/3.33x10^-9)photons/second arrive at the detector. When you take data, you’ll see the photon arrival rate is something on the order of 1,000 photons/second. This is 5 orders of magnitude less than your demand. Indeed there is at most only one photon traveling from the bulb to the detector at a given time.
+To do this experiment, we want a single photon at a time to approach and interact with the double slit. Does the light bulb we’re using produce “one photon at a time?”  Think about it this way. The apparatus is about 1 m long, and light travels at 3x10^8 m/s, so  it would take 3.33x10^-9 s for a photon to travel from the bulb to the detector.  If you demanded that at most there is only one photon traveling down the apparatus at a time, you would insist that no more than 3x10^8 (=1/3.33x10^-9) photons/second arrive at the detector. When you take data, you’ll see the photon arrival rate is something on the order of 1,000 photons/second. This is 5 orders of magnitude less than your demand. Indeed there is at most only one photon traveling from the bulb to the detector at a given time.
 
 
 #### Videos: Data taking

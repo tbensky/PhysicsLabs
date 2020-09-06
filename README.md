@@ -555,9 +555,9 @@ After your data analysis, hopefully you have some numerical values for T2\*, T2 
 * Attach the tails of all 3 arrows to the black dot shown in the backdrop so that they may rotate around the dot (see sample below).  Assume the arrows are constituents of net magnetization of the sample.
 
 * Place the backdrop with the arrows attached down on a table. Fix your phone’s camera directly above the backdrop and make a video.  The video is to have three parts to it. 
-1. The first explains how pulsed NMR gives us T2\* is.
-1. The second explains how pulsed NMR gives T2.
-1. Thir third third T1. 
+	1. The first explains how pulsed NMR gives us T2\* is.
+	1. The second explains how pulsed NMR gives T2.
+	1. Thir third third T1. 
 
 * [Here is a sample](https://youtu.be/ywh9fTWfsoA) explaining where T2\* may come from.
 

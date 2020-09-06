@@ -323,7 +323,34 @@ In this lab, we'll place thicker and thicker amounts of lead and aluminum betwee
 * From each coefficient, also find the "mass attenuation coefficient" to be compared with online references for such.
 
 
-## Lab: Magnetic Torque
+## Lab 7: Gamma-ray waiting times
+
+When dealing with gamma-rays, we're most used to discussing how many our detection system detects in some time interval, like 845 counts/second, etc.  Suppose we instead wondered "once we detect a gamma ray, how long to we have to wait for the *next* gamma-ray?"  Would it be 1/845 seconds? If so, would this be a constant for a given source?  Measuring the "waiting time" between gamma-ray emissions is the goal of this work. An Arduino Uno will be used to do the timing.
+
+### Equipment tour
+
+* [Interfacing detection equipment to an Arduino](https://youtu.be/6kceZKelflE)
+* [Introduction to TTL pulses](https://youtu.be/BcL3BDvsGlQ)
+* [The Arduino off and running](https://youtu.be/NFApVXQNKZY)
+* [Seeing multiple detection pulses on the oscilloscope](https://youtu.be/_bGbpDlWTOg)
+
+### Data taking
+
+Gamma-ray waiting times. See https://github.com/tbensky/PhysicsLabs
+
+In the `Data` folder you'll find two files:
+1. `cps.csv:` this contains over 8,000 counts/second measured using a scalar for a Cs137 source.
+1. `wait_times.csv:` contains osver 8,000 microsecond wait times, measured by the Arduino, between successive pulses coming from the SCA.
+
+### Data Analysis
+
+* Histograms of the counts/second and waiting times should be made to expose the distribution in the numbers.
+* The counts/second should be normally distributed.
+* The waiting times should show a [negative exponential distribution](https://en.wikipedia.org/wiki/Exponential_distribution).
+* Data analysis should reveal a definitive connection between the fit parameters for both data sets.
+
+
+## Lab 8: Magnetic Torque
 
 A cue ball has a magnet embedded in it.  It rides on an air bearing is made to oscillate and precess in a magnetic field.  This is a great introduction to ESR and NMR, where it's not a cue ball, but electrons and protons in a magnetic field.
 

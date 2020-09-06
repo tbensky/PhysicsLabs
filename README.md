@@ -519,6 +519,31 @@ Lots of possibilities, but to start, one wants to find the extinction coefficien
 * Try to come up with some connection of trends in your data to local weather conditions in San Luis Obispo on the days data was taken.
 
 
+## Lab 12: Pulsed NMR
+
+You may already be familiar with just plain old "NMR." You can think of this as continuous NMR, since the RF field that did the spin flipping was always on.  This experiment is also NMR, but the RF fields are not always on.  They are pulsed.  A pulse generator that you control can turn the RF fields on and off.  And, since the RF fields are not on all of the time, time dynamics of the spin orientations are possible to see.  These time dynamics are a very very cool thing to see.  
+
+Also the most important issue on the apparatus: the detector only tells you the component of the net magnetization of the sample perpendicular to the static B-field.
+
+### Equipment Tour
+
+* [Intro to Pulsed NMR](https://youtu.be/77h_4RWQkYg)
+* [Pulse programmer](https://youtu.be/korWbEK5qhw)
+
+### Data Taking
+
+Here is the pulsed NMR running for Mineral Oil.
+
+* [Finding T2\*](https://youtu.be/59g3X-U9fak)
+* [Finding T2](https://youtu.be/7gzEo7-6FXA)
+* [Finding T1](https://youtu.be/pgC89PQomK0)
+
+
+### Data Analysis
+
+Using curve fits of the data, report T2\*, T2 and T1
+
+
 
 
 

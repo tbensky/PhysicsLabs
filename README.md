@@ -598,8 +598,48 @@ We are using the [photon interference apparatus by TeachSpin](https://www.teachs
 * Separation=0.406 mm, slit opening width=0.09 mm
 ![Image of slit](https://github.com/tbensky/PhysicsLabs/blob/master/Labs/SinglePhotonInterference/slit.png)
 
+#### Single Photon Source
+
+To do this experiment, we want a single photon at a time to approach and interact with the double slit. Does the light bulb we’re using produce “one photon at a time?”  Think about it this way. The apparatus is about 1 m long, and light travels at 3108 m/s, so  it would take 3.33x10^-9s for a photon to travel from the bulb to the detector.  If you demanded that at most there is only one photon traveling down the apparatus at a time, you would insist that no more than3108 (=1/3.33x10^-9)photons/second arrive at the detector. When you take data, you’ll see the photon arrival rate is something on the order of 1,000 photons/second. This is 5 orders of magnitude less than your demand. Indeed there is at most only one photon traveling from the bulb to the detector at a given time.
 
 
+#### Videos: Data taking
+
+As discussed in the apparatus tour video, your data consists of scanning a small aperture across the photons that emerge from the double slit. The aperture allows you to sample a small section across the transverse dimension of the interference pattern.  A “data point” here is how many photons arrive at the detector as a function of the aperture position.  This aperture does not cause any additional interference, as it only serves as a spatial discriminator: it only allows photons lined up with its own transverse position (relative to the travel direction of the photons) to reach the detector.
+
+The data videos likely represent what you as a student might have taken in the lab yourself: several curious runs at different bulb intensities. It is not clear which will be the best.  For a given video, take data and produce a plot of “photon counts” (y-axis) vs. aperture position (x-axis).  In many cases, the aperture is held in a given position for 2 or more seconds, allowing you to average two or more readings as your official “data point.” (A quick mental average is fine, as you watch the counts come in is fine.) Your photon counts are just “counts,” so the usual uncertainty in each apply.
+
+
+* [Single photon interference experiment: Lamp intensity knob at 3/4 of max, 0.406 mm slit separation, slits 0.09 mm wide (run 1 at this bulb intensity)](https://youtu.be/Kl_uEwwu8YM)
+
+* [Single photon interference experiment: Lamp intensity knob at 3/4 of max, 0.406 mm slit separation, slits 0.09 mm wide (run 2 at this bulb intensity)](https://youtu.be/01vw2B6TxIo)
+
+* [Single photon interference experiment: Lamp intensity knob at full maximum, 0.406 mm slit separation, slits 0.09 mm wide (only run at this bulb intensity)](https://youtu.be/pO1Tm_6raLQ)
+
+* [Single photon interference experiment: Lamp intensity knob at half maximum, 0.406 mm slit separation, slits 0.09 mm wide (run 1 at this bulb intensity)](https://youtu.be/jI2TQ_QwhV0)
+
+* [Single photon interference experiment: Lamp intensity knob at half maximum, 0.406 mm slit separation, slits 0.09 mm wide (run 2 at this bulb intensity)](https://youtu.be/tmXQ6x4XFq0)
+
+
+
+
+
+### Data Analysis
+
+For each data set, plot photon counts vs aperture distance.  Fit the classical double slit intensity formula (see Wikipedia article in the Introduction above) to each plot. Since we don’t know where the central maximum is, it is OK to add a offset along the horizontal axis in the theory equation.  Free fit parameters then will be an overall multiplicative constant, the photon wavelength, and the horizontal offset. The overall multiplicative constant will beI0, the light intensity that arrives at the double slit. In the photon view, I0will be the number of photons per second arriving at the double slit.
+
+#### Theory
+Apart from the analysis and curve fitting, it would be nice if you could leave this lab with some feeling on what a single photon does as it interacts with a double slit. The analysis and curve fitting should allow you to form your first idea, but this is just an observation of the data:
+
+In the limit of high photon counts, single photons appear to follow _______________.
+
+You fill in the blank.  The answer should be of no surprise, since light is fundamentally a photon, with an intense, classically analyzed light field (like from a laser), just the presence of a lot of photons.
+
+But again, your first impression here, and what you fill in the blank is just an observation. You saw how the data behaved when a lot of photons are aimed at a double slit. You should still be wondering: 
+
+##### What happens when just one of those photons interacts with the double slit? 
+
+To answer this, you need to learn a bit about "Quantum Electrodynamics,"" or "QED" from the Feynman book reference above. Let’s learn a bit of QED from this book.  Chapter 2 describes all of classical optics, including how reflection, diffraction, lenses, and mirages, not for light waves (as in classical optics), but for photons. The answer for photons and obstructions (like single and double slits) is contained in the figures on p. 55 and 56.  So you should read Chapter 2, which will likely need a bit of warm-up with a read of Chapter 1.  Please discuss what a single photon does when it encounters a double slit, in your report. This paper may help you along as well.
 
 
 

@@ -581,10 +581,19 @@ In introductory physics or in optics, you studied the Young’s double slit expe
 
 Here, I(θ) is the intensity seen at some position θ on the screen, d is the slit separation, and b is the slit width. On a linear screen, θ is usually replaced with y/L, where y is some actual distance along the image plane (the screen), and L is the slit-to-image plane distance (about 50 cm in this apparatus).
 
-This experiment
-In this experiment, we consider what would happen in a Young’s double slit experiment if the coherent laser beam was replaced with a stream of single photons.  One usually starts thinking about this in terms of which slit a photon may “choose” to pass through with the classical analogy of “baseballs flying through holes,” etc.  The conceptual difficulty is in how an interference pattern can form with photons.  This all often falls under the idea of a “which-way” experiment, also briefly covered here.
+In this experiment, we consider what would happen in a Young’s double slit experiment if the coherent laser beam was replaced with a stream of single photons.  One usually starts thinking about this in terms of which slit a photon may “choose” to pass through with the classical analogy of “baseballs flying through holes,” etc.  The conceptual difficulty is in how an interference pattern can form with photons.  This all often falls under the idea of a “which-way” experiment, also briefly covered [here](https://en.wikipedia.org/wiki/Double-slit_experiment).
 
-Videos: Apparatus Tour
+### Equipment Tour
+
+We are using the [photon interference apparatus by TeachSpin](https://www.teachspin.com/two-slit). Here is [the company’s manual](https://www.dropbox.com/s/b3ood2t83sjl11x/2slit_man.pdf?dl=0), and here is a video tour of the apparatus:
+
+* [General tour of apparatus](https://youtu.be/gwGBdQ6_Jdw)
+* [Tour of detector end of apparatus](https://youtu.be/mMEfq-UFpJE)
+* [Tour of apparatus internals](https://youtu.be/ZVJoAKVbhvU)
+* [Initial power up and turning of knobs](https://youtu.be/UcYX-Fkhfoc)
+* [Turning lamp intensity knob](https://youtu.be/UV-o4Jt7CUg)
+
+
 
 
 

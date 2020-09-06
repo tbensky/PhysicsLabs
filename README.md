@@ -561,7 +561,7 @@ After your data analysis, hopefully you have some numerical values for T2\*, T2 
 
 * [Here is a sample](https://youtu.be/ywh9fTWfsoA) explaining where T2\* may come from.
 
-* The only motion needed in your video is you slowly rotating the arrows, together or separately (ahem--when the arrows may separate is a big deal), and moving the check mark into the "A-on,"" "B-on,"" or "All off" box, indicating which pulse (if any) is on, turning the RF on, and affecting the arrows the way you’ll show.  
+* The only motion needed in your video is you slowly rotating the arrows, together or separately (ahem--when the arrows may separate is a big deal), and moving the check mark into the "A-on," "B-on,"" or "All off" box, indicating which pulse (if any) is on, turning the RF on, and affecting the arrows the way you’ll show.  
 
 * As you begin a new explanation (of T2\*, T2, or T1), be sure all of the arrows start out oriented along the static B-field direction. You should narrate the video as you move the arrows and the check mark. Here is a sample that may explain where T2* comes from.
 

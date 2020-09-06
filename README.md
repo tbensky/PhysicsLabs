@@ -545,6 +545,26 @@ Using curve fits of the data, report T2\*, T2 and T1
 
 ### Do you really understand what's going on here?
 
+After your data analysis, hopefully you have some numerical values for T2\*, T2 and T1.  But what do they really mean?  Here's a test for you on *the physics* of these parameters.
+
+* [Print this template](https://github.com/tbensky/PhysicsLabs/blob/master/Labs/PulsedNMR/arrows_and_check.pdf) and cut out the arrows and check marks.
+
+* Now, [print this backdrop](https://github.com/tbensky/PhysicsLabs/blob/master/Labs/PulsedNMR/backdrop.pdf) 
+
+* Attach the tails of all 3 arrows to the black dot shown in the backdrop so that they may rotate around the dot (see sample below).  Assume the arrows are constituents of net magnetization of the sample.
+
+* Place the backdrop with the arrows attached down on a table. Fix your phone’s camera directly above the backdrop and make a video.  The video is to have three parts to it. 
+1. The first explains how pulsed NMR gives us T2\* is.
+1. The second explains how pulsed NMR gives T2.
+1. Thir third third T1. 
+
+* [Here is a sample](https://youtu.be/ywh9fTWfsoA) explaining where T2\* may come from.
+
+* The only motion needed in your video is you slowly rotating the arrows, together or separately (ahem--when the arrows may separate is a big deal), and moving the check mark into the "A-on,"" "B-on,"" or "All off" box, indicating which pulse (if any) is on, turning the RF on, and affecting the arrows the way you’ll show.  
+
+* As you begin a new explanation (of T2\*, T2, or T1), be sure all of the arrows start out oriented along the static B-field direction. You should narrate the video as you move the arrows and the check mark. Here is a sample that may explain where T2* comes from.
+
+* Share your video with your instructor for grading. (Suggestion: put on Youtube with the permission set to 'unlisted.')
 
 
 

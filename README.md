@@ -158,7 +158,7 @@ Use [ImageJ](https://imagej.nih.gov/ij/download.html) to load in images and pick
 * Find uncertainty in q/m by propagating the uncertainty in your values of R, B, and V.
 * Since you are able to compute many q/m values, average all q/m results and do an SDOM analysis for the uncertainty.
 
-## Lab 4: Gamma Ray Scintillation
+## Lab 5: Gamma Ray Scintillation
 
 "Scintillation" is a detection technique for gamma-rays.  Technically, it is the process of a gamma ray depositing its energy into a NaI(Tl) detector, and causing a flash of UV light to be produced (via crystal properties and the Tl doping).  The crystal is transparent to the UV light, so the light can travel through it, to a collection cathode at one end of the detector. This causes an electron to be ejected from the photocathode (as in the photoelectric effect). Electron amplification occurs with dynodes in the detector.  A photocurrent is output from the detector, which is "the signal." 
 
@@ -222,7 +222,7 @@ Here E and E' are the gamma-ray energies, m is the electron mass and c is the sp
 
 Using your calibrated Cs137 spectrum, identify all peaks/features caused by Compton Scattering. For each feature, draw a "cartoon" containing a gamma-ray and electron (at rest) showing what scatter must have occurred to generate that feature.
 
-## Lab 5: Gamma-ray Scitillation: high and low count statistics
+## Lab 6: Gamma-ray Scitillation: high and low count statistics
 
 The emission of a gamma-ray is a truly random process. Despite the "click-click-click" one hears on a handheld Geiger counter, no one can predict with certainty exactly when a gamma-ray will be emitted from a nucleus. This leaves any counting theory or prediction up to the laws of statistics. The best we can determine is a likelihood a decay will occur.
 
@@ -294,7 +294,7 @@ There can be an issue with deadtime in these experiments. This would cause the d
 * Run each throuh the same histogram/fit/plot/Chi-square procedure as in Part I for your hand data.
 * That is, generate two more plots each having a histogram and appropriate fit for both the high and low count data files.
 
-## Lab 6: Gamma-ray attenuation
+## Lab 7: Gamma-ray attenuation
 
 Attenuation means to make less, as in less intense.  So how would one make a flux of gamma-rays less intense? How would one attenuate gamma-rays? Answer: By putting some matter in the way, and the denser (i.e. more electrons), the better. Why electrons? Gamma-rays (on the order of 1 MeV or so) primarily react with matter by via the electrons in the matter (compton scattering and photoelectric absorption). If absorbed, a given gamma-ray will be removed from the original gamma-ray flux, attenuating the overall flux. This can also be called "shielding."
 
@@ -324,7 +324,7 @@ In this lab, we'll place thicker and thicker amounts of lead and aluminum betwee
 * From each coefficient, also find the "mass attenuation coefficient" to be compared with online references for such.
 
 
-## Lab 7: Gamma-ray waiting times
+## Lab 8: Gamma-ray waiting times
 
 When dealing with gamma-rays, we're most used to discussing how many our detection system detects in some time interval, like 845 counts/second, etc.  Suppose we instead wondered "once we detect a gamma ray, how long to we have to wait for the *next* gamma-ray?"  Would it be 1/845 seconds? If so, would this be a constant for a given source?  Measuring the "waiting time" between gamma-ray emissions is the goal of this work. An Arduino Uno will be used to do the timing.
 
@@ -351,7 +351,7 @@ In the `Data` folder you'll find two files:
 * Data analysis should reveal a definitive connection between the fit parameters for both data sets.
 
 
-## Lab 8: Magnetic Torque
+## Lab 9: Magnetic Torque
 
 A cue ball has a magnet embedded in it.  It rides on an air bearing is made to oscillate and precess in a magnetic field.  This is a great introduction to ESR and NMR, where it's not a cue ball, but electrons and protons in a magnetic field.
 

@@ -28,6 +28,7 @@ It is hoped the "quaratine versions" of the labs will allow the student to have 
 * [Lab 10: Detecting Muons](https://github.com/tbensky/PhysicsLabs#lab-10-detecting-muons)
 * [Lab 11: Sun Photometry](https://github.com/tbensky/PhysicsLabs#lab-11-sun-photometry)
 * [Lab 12: Pulsed NMR](https://github.com/tbensky/PhysicsLabs#lab-12-pulsed-nmr)
+* [Lab 13: Single photon interference](https://github.com/tbensky/PhysicsLabs#lab-13-single-photon-interference)
 
 
 ## Lab 1: Cratering

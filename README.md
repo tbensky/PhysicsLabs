@@ -453,7 +453,7 @@ Muons don’t interact with matter much, but there is one way of at least "provi
 
 ## Lab 11: Sun Photometry
 
-Sun photometry is about measure the intensity of sunlight at a given wavelength, reaching the earth's surface, as a function of the depth of the atmosphere. There are some good papers in the `Resources` folder for this experiment explaining it all. Also see:
+Sun photometry is about measuring the intensity of sunlight at a given wavelength, reaching the earth's surface, as a function of the [optical] thickness of the atmosphere. There are some good papers in the `Resources` folder for this experiment explaining it all. Also see:
 
 * Mims, 20 Nov 1992, Vol 31, No. 33, Applied Optics, “Sun photometer with light-emitting...”
 * Mims,Vol. 80, No. 7, July 1999, p.1421, Bulletin of the American Meteorological Society, “An International Haze-monitoring...”

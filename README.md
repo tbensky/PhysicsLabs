@@ -570,7 +570,7 @@ After your data analysis, hopefully you have some numerical values for T2\*, T2 
 
 ## Lab 13: Single photon interference
 
-Note! As you ease into this experiment, please read Ch 1 of [this book](https://www.amazon.com/QED-Strange-Princeton-Science-Library/dp/0691164096/ref=sr_1_1?dchild=1&keywords=feynman+qed&qid=1599434314&sr=8-1). (Note: This is suuuuuch a good book. It might be on b-ok.cc.)  You will likely be unable to come up with any sort of theoretical discussion for this experiment without understanding the ideas presented in this book.  Chapter 2 is most relevant to this experiment, but ideas in Ch 1 are needed as a basis for Ch 2.
+Note! As you ease into this experiment, please read Ch 1 of [this book](https://www.amazon.com/QED-Strange-Princeton-Science-Library/dp/0691164096/ref=sr_1_1?dchild=1&keywords=feynman+qed&qid=1599434314&sr=8-1). (Notes: 1) This is suuuuuch a good book. 2) It might be on b-ok.cc.)  You will likely be unable to come up with any sort of theoretical discussion for this experiment without understanding the ideas presented in this book.  Chapter 2 is most relevant to this experiment, but ideas in Ch 1 are needed as a basis for Ch 2.
 
 In introductory physics or in optics, you studied the Young’s double slit experiment, which is summarized nicely [here](https://en.wikipedia.org/wiki/Double-slit_experiment). In such an experiment, a coherent laser beam is split by two slits, separated by some small distance. Each slit launches a portion of the coherent beam toward a viewing screen, where an interference pattern is seen.  The idea of wave interference with peaks and valleys in each beam, each traveling some distance before combining with the other at a screen via superposition, makes it plausible that an interference pattern will form on the viewing screen.  The pattern becomes more complicated if one works in that the slits have a finite width, but the wave picture still makes it plausible that an interference pattern on a viewing screen will  form. The classical interference pattern is described by the culminating equation in the “Classical wave-optics formulation” section in the Wikipedia article, or
 
@@ -586,7 +586,7 @@ In this experiment, we consider what would happen in a Young’s double slit exp
 
 ### Equipment Tour
 
-We are using the [photon interference apparatus by TeachSpin](https://www.teachspin.com/two-slit). Here is [the company’s manual](https://www.dropbox.com/s/b3ood2t83sjl11x/2slit_man.pdf?dl=0), and here is a video tour of the apparatus:
+We are using the [photon interference apparatus by TeachSpin](https://www.teachspin.com/two-slit). Here is [the company’s manual](https://github.com/tbensky/PhysicsLabs/blob/master/Labs/SinglePhotonInterference/2slit_man.pdf), and here is a video tour of the apparatus:
 
 * [General tour of apparatus](https://youtu.be/gwGBdQ6_Jdw)
 * [Tour of detector end of apparatus](https://youtu.be/mMEfq-UFpJE)
@@ -642,7 +642,7 @@ But again, your first impression here, and what you fill in the blank is just an
 
 To answer this, you need to learn a bit about "Quantum Electrodynamics,"" or "QED" from the Feynman book reference above. Let’s learn a bit of QED from this book.  Chapter 2 describes all of classical optics, including how reflection, diffraction, lenses, and mirages, not for light waves (as in classical optics), but for photons. The answer for photons and obstructions (like single and double slits) is contained in the figures on p. 55 and 56.  So you should read Chapter 2, which will likely need a bit of warm-up with a read of Chapter 1.  
 
-Please discuss what a single photon does when it encounters a double slit, in your report. This paper may help you along as well.
+Please discuss what a single photon does when it encounters a double slit, in your report. [This paper](https://github.com/tbensky/PhysicsLabs/blob/master/Labs/SinglePhotonInterference/2005%20Hanc%2C%20The%20Feynman%20quantum%20mechanics%20with%20the%20help%20of%20Java%20applets%20and%20physlets%20in%20Slovakia.pdf) may help you along as well. I am waiting for someone (a student) to code up some nice animations of photons flying around with Feynman's clocks on them.
 
 
 

@@ -521,7 +521,7 @@ Lots of possibilities, but to start, one wants to find the extinction coefficien
 
 ## Lab 12: Pulsed NMR
 
-You may already be familiar with just plain old "NMR." You can think of this as continuous NMR, since the RF field that did the spin flipping was always on.  This experiment is also NMR, but the RF fields are not always on.  They are pulsed.  A pulse generator that you control can turn the RF fields on and off.  And, since the RF fields are not on all of the time, time dynamics of the spin orientations are possible to see.  These time dynamics are a very very cool thing to see.  
+You may already be familiar with just plain old "NMR." You can think of this as continuous NMR, since the RF field that did the spin flipping was always on.  This experiment is also NMR, but the RF field are *not* always on.  It is pulsed.  A pulse generator that you control can turn the RF fields on and off.  And, since the RF field is not on all of the time, time dynamics of the spin orientations are possible to see.  These time dynamics are a very very cool thing to see.  
 
 Also the most important issue on the apparatus: the detector only tells you the component of the net magnetization of the sample perpendicular to the static B-field.
 
@@ -542,6 +542,8 @@ Here is the pulsed NMR running for Mineral Oil.
 ### Data Analysis
 
 Using curve fits of the data, report T2\*, T2 and T1
+
+### Do you really understand what's going on here?
 
 
 

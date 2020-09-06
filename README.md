@@ -567,6 +567,26 @@ After your data analysis, hopefully you have some numerical values for T2\*, T2 
 
 * Share your video with your instructor for grading. (Suggestion: put on Youtube with the permission set to 'unlisted.')
 
+## Lab 13: Single photon interference
+
+Note! As you ease into this experiment, please read Ch 1 of [this book](https://www.amazon.com/QED-Strange-Princeton-Science-Library/dp/0691164096/ref=sr_1_1?dchild=1&keywords=feynman+qed&qid=1599434314&sr=8-1). (Note: This is suuuuuch a good book.)  You likely will be unable to come up with any sort of theoretical discussion for this experiment without understanding the ideas presented in it.  Chapter 2 is most relevant to this experiment, but ideas in Ch 1 are needed as a basis for Ch 2.
+
+In introductory physics or in optics, you studied the Young’s double slit experiment, which is summarized nicely [here](https://en.wikipedia.org/wiki/Double-slit_experiment). In such an experiment, a coherent laser beam is split by two slits, separated by some small distance. Each slit launches a portion of the coherent beam toward a viewing screen, where an interference pattern is seen.  The idea of wave interference with peaks and valleys in each beam, each traveling some distance before combining with the other at a screen via superposition, makes it plausible that an interference pattern will form on the viewing screen.  The pattern becomes more complicated if one works in that the slits have a finite width, but the wave picture still makes it plausible that an interference pattern on a viewing screen will  form. The classical interference pattern is described by the culminating equation in the “Classical wave-optics formulation” section in the Wikipedia article, or
+
+<img src="https://render.githubusercontent.com/render/math?math=I(\theta)\propto\cos^2\left[\frac{\pi d \sin\theta}{\lambda}\right]\sinc^2\left[\frac{\pi b \sin\theta}{\lambda}\right]">
+
+
+
+
+
+Here, I(θ) is the intensity seen at some position θ on the screen, d is the slit separation, and b is the slit width. On a linear screen, θ is usually replaced with y/L, where y is some actual distance along the image plane (the screen), and L is the slit-to-image plane distance (about 50 cm in this apparatus).
+
+This experiment
+In this experiment, we consider what would happen in a Young’s double slit experiment if the coherent laser beam was replaced with a stream of single photons.  One usually starts thinking about this in terms of which slit a photon may “choose” to pass through with the classical analogy of “baseballs flying through holes,” etc.  The conceptual difficulty is in how an interference pattern can form with photons.  This all often falls under the idea of a “which-way” experiment, also briefly covered here.
+
+Videos: Apparatus Tour
+
+
 
 
 

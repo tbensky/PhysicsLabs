@@ -15,11 +15,11 @@ It is hoped the "quaratine versions" of the labs will allow the student to have 
 * [Speed of light](https://github.com/tbensky/PhysicsLabs#lab-2-speed-of-light)
 * [Photoelectric Effect](https://github.com/tbensky/PhysicsLabs#lab-3-the-photoelectric-effect)
 * [Charge-to-mass ratio for an electron](https://github.com/tbensky/PhysicsLabs#lab-4-charge-to-mass-ratio-qm-for-the-electron)
-* [Gamma-ray Scintillation](https://github.com/tbensky/PhysicsLabs#lab-4-gamma-ray-scintillation)
-* [Gamma-ray Scintillation: Counting Statistics](https://github.com/tbensky/PhysicsLabs#lab-5-gamma-ray-scitillation-high-and-low-count-statistics)
-* [Gamma-ray attenuation](https://github.com/tbensky/PhysicsLabs#lab-6-gamma-ray-attenuation)
-* [Waiting times between gamma-rays](https://github.com/tbensky/PhysicsLabs#lab-7-gamma-ray-waiting-times)
-* [Magnetic Torque](https://github.com/tbensky/PhysicsLabs#lab-magnetic-torque)
+* [Gamma-ray Scintillation](https://github.com/tbensky/PhysicsLabs#lab-5-gamma-ray-scintillation)
+* [Gamma-ray Scintillation: Counting Statistics](https://github.com/tbensky/PhysicsLabs#lab-6-gamma-ray-scitillation-high-and-low-count-statistics)
+* [Gamma-ray attenuation](https://github.com/tbensky/PhysicsLabs#lab-7-gamma-ray-attenuation)
+* [Waiting times between gamma-rays](https://github.com/tbensky/PhysicsLabs#lab-8-gamma-ray-waiting-times)
+* [Magnetic Torque](https://github.com/tbensky/PhysicsLabs#lab-9-magnetic-torque)
 
 
 ## Lab 1: Cratering

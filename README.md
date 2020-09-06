@@ -513,9 +513,9 @@ Lots of possibilities, but to start, one wants to find the extinction coefficien
 
 * The voltage each LED would read if the photometer was taken above the earth’s atmosphere (the extraterrestrial voltage for each LED).
 * The distance a given red, green, or blue wavelength traveled through the atmosphere, at which its exterrestrial voltage was reduced by 50%. (In other words, how far through the atmosphere does a given wavelength travel before its intensity is reduced by half?)
-* Show one ‘Langley plot’ for each day with data for all three wavelengths plotted on the same Langley plot (see Fig 5 in Acharya above; make one of these for each day of data).
+* Show one ‘Langley plot’ for each day with data for all three wavelengths plotted on the same Langley plot (see Fig 5 in Acharya--one of the papers above; make one of these for each day of data).
 * For each wavelength on a given day, plot the ‘half voltage distance’ (y-axis) vs day (x-axis). Be sure your day scale is properly spaced (best to convert your days/times to seconds (may help). Plot all 3 wavelengths on a single plot, with clear annoations.
-* Try to come up with some connection of trends in your data to local weather conditions in SLO.
+* Try to come up with some connection of trends in your data to local weather conditions in San Luis Obispo on the days data was taken.
 
 
 

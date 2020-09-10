@@ -182,6 +182,7 @@ This lab has two parts.
 ### Equipment Tour
 
 
+
 * [Equipment tour](https://youtu.be/DQU8kMIjicE)
 * [Different gamma-ray sources available](https://youtu.be/ENBQokl2bQk)
 * [Seeing an initial gamma-ray detection signal](https://youtu.be/7dQqvlEldsE)
@@ -224,7 +225,7 @@ Data files (CSV files, counts vs. channel number or a "spectrum") for each are i
 
 A gamma-ray with energy E can Compton scatter within the detector (or its surroundings) to produce a lower energy gamma ray, E' that then may be detected and subsequently generate the signal. E' is a function of E via the Compton Scattering formula
 
-<img src="https://render.githubusercontent.com/render/math?math=E'=\frac{E}{1%2B\frac{E}{mc^2}\left(1-\cos\theta\right)}">
+<img src="https://render.githubusercontent.com/render/math?math=E'=\frac{E}{1%2B\frac{E}{mc^2}\left[1-\cos\theta\right]}">
 
 Here E and E' are the gamma-ray energies, m is the electron mass and c is the speed of light (note: <img src="https://render.githubusercontent.com/render/math?math=mc^2=511 keV"> for an electron).
 

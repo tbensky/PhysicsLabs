@@ -181,7 +181,6 @@ This lab has two parts.
 
 ### Equipment Tour
 
-Gamma ray scintillation. See https://github.com/tbensky/PhysicsLabs
 
 * [Equipment tour](https://youtu.be/DQU8kMIjicE)
 * [Different gamma-ray sources available](https://youtu.be/ENBQokl2bQk)
@@ -262,7 +261,6 @@ Here <img src="https://render.githubusercontent.com/render/math?math=\mu"> is th
 
 ## Equipment Tour
 
-Gamma-ray counting statistics. See https://github.com/tbensky/PhysicsLabs
 
 * [Introduction to the Single channel analyzer (SCA)](https://youtu.be/LQg4JgmPuFs)
 * [See the SCA at work](https://youtu.be/20h5PCv3Lho)
@@ -528,7 +526,7 @@ Lots of possibilities, but to start, one wants to find the extinction coefficien
 
 ## Lab 12: Pulsed NMR
 
-You may already be familiar with just plain old "NMR." You can think of this as continuous NMR, since the RF field that did the spin flipping was always on.  This experiment is also NMR, but the RF field are *not* always on.  It is pulsed.  A pulse generator that you control can turn the RF fields on and off.  And, since the RF field is not on all of the time, time dynamics of the spin orientations are possible to see.  These time dynamics are a very very cool thing to see.  
+You may already be familiar with just plain old "NMR." You can think of this as continuous NMR, since the RF field that did the spin flipping was always on.  This experiment is also NMR, but the RF field is *not* always on.  It is pulsed.  A pulse generator that you control can turn the RF fields on and off.  And, since the RF field is not on all of the time, time dynamics of the spin orientations are possible to see.  These time dynamics are a very very cool thing to see.  
 
 Also the most important issue on the apparatus: the detector only tells you the component of the net magnetization of the sample perpendicular to the static B-field.
 

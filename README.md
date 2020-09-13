@@ -47,7 +47,7 @@ The apparatus used here looks [like this.](Labs/Cratering/Apparatus/app01.jpg)  
 
 ### Data Taking
 
-The Data folder contains pairs of images, like `001_drop.jpg` and `001_crater.jpg`.  Each pair shows the drop height of a small metal ball and an image of the resulting crater, with a ruler placed on top of it.  Ball parameters:
+The Data folder contains pairs of images, like `001_drop.jpg` and `001_crater.jpg`.  Each pair shows the drop height of a small iron ball and an image of the resulting crater, with a ruler placed on top of it.  Ball parameters:
 
 * Record all uncertainties in the drop height and crater diameter.
 

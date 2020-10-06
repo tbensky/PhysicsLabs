@@ -167,6 +167,7 @@ Use [ImageJ](https://imagej.nih.gov/ij/download.html) to load in images and pick
 * Use R, B, and V to compute q/m as in <img src="https://render.githubusercontent.com/render/math?math=q/m=\frac{2V}{R^2B^2}">
 * Find uncertainty in q/m by propagating the uncertainty in your values of R, B, and V.
 * Since you are able to compute many q/m values, average all q/m results and do an SDOM analysis for the uncertainty.
+* The curve fit can be tough on this one!  Here are [some tips](https://docs.google.com/document/d/1VhEp9krV9-Pfam7U1_YknWdrqc8xfi4NZCUrR8dYSTo/edit?usp=sharing).
 
 ## Lab 5: Gamma Ray Scintillation
 

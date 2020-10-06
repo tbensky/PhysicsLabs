@@ -143,7 +143,7 @@ A beam of electrons is sent through an evacualted glass sphere containing a trac
 * A given "up" file is when the magnetic field direction steers the electron beam upward.
 * A given "down" file is when the magnetic field direction steers the electron beam downward.
 * Meters show accelerating potential and current through helmholtz coil.
-* See equipment tour for characteristics of helmholtz coil.
+* *Turns and diameter of Helmholtz Coils:* See equipment tour video.
 
 #### Suggestion
 

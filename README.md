@@ -131,7 +131,7 @@ A beam of electrons is sent through an evacualted glass sphere containing a trac
 
 * [Equipment Tour](https://youtu.be/bee7VRBN7Vw)
 
-* [Tour showing effects of magnetic field and stopping potential](https://youtu.be/zPv0aICY5GU)
+* [Tour showing effects of magnetic field and accelerating potential](https://youtu.be/zPv0aICY5GU)
 
 ### Data Taking
 

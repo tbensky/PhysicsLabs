@@ -151,7 +151,7 @@ Use [ImageJ](https://imagej.nih.gov/ij/download.html) to load in images and pick
 
 1. Load image into ImageJ
 1. Set distance scale for image
-	1. Draw a line covering a known distance
+	1. Draw a line covering a known physical distance
 	1. Analyze->Set scale...
 1. On the tool bar, right click on "point tool" to make it into "multipoint" tool.
 1. Click along electron beam path. Small yellow numbered point/placeholders should appear.

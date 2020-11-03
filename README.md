@@ -691,7 +691,7 @@ This is a classical continuous-wave 15 MHz NMR (B0 is around 5000G). A wiggler B
 ### Data analysis
 
 * Plot f vs B, which should be linear. 
-* Do a linear fit and find the slope, which should be <img src="https://render.githubusercontent.com/render/math?math=g\mu_N/h">
+* Do a linear fit and find the slope, which should be <img src="https://render.githubusercontent.com/render/math?math=g\mu_N/h">. Find  <img src="https://render.githubusercontent.com/render/math?math=g"> for a proton.
 * Note: do not ignore your y-intercept. I'll likely be non-zero, indicating some bias in the data. Your model should be <img src="https://render.githubusercontent.com/render/math?math=f%2Bf_{bias}=\frac{g\mu_N}{h}(f%2Bf_{bias})">. 
 * This is a linear model too, but lump all bias terms into the y-intercept and equate to that from your fit. Assess if bias terms are realistic errors in their associated experimental parameters.
 

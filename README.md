@@ -671,16 +671,16 @@ This is a classical continuous-wave 15 MHz NMR (B0 is around 5000G). A wiggler B
 
 #### Preface 
 * [How data is taken](https://youtu.be/5_caDHRQsOA)
-* [Finding B from I](https://youtu.be/pVNh7gwFl2Q) (that is, the DC magnetic field in the electromagnet from the current injected into the magnet)
+* [Finding B from I](https://youtu.be/pVNh7gwFl2Q) (That is, the DC magnetic field in the electromagnet from the current injected into the magnet.)
 
 ### Data for CuSO4 in water
 
 * [Data 01](https://youtu.be/Nhc1dZl4CX8)
 * [Data 02](https://youtu.be/x0Nv_5Pkvvw)
-* [Data 03]()
-* [Data 04]()
-* [Data 05]()
-* [Data 06]()
+* [Data 03](https://youtu.be/YI9i6t5KY9c)
+* [Data 04](https://youtu.be/eD0q9kDANEU)
+* [Data 05](https://youtu.be/k77DrTQ5XuU)
+* [Data 06](https://youtu.be/9wMs_Lihn-U)
 
 ### Data for PTFE
 * See `PTFE` folder
@@ -692,6 +692,7 @@ This is a classical continuous-wave 15 MHz NMR (B0 is around 5000G). A wiggler B
 
 * Plot f vs B, which should be linear. 
 * Do a linear fit and find the slope, which should be <img src="https://render.githubusercontent.com/render/math?math=g\mu_N/h">
-* Note: do not ignore your y-intercept. I'll likely be non-zero, indicating some bias in the data. You model should be <img src="https://render.githubusercontent.com/render/math?math=f+f_{bias}=\frac{g\mu_N}{h}(f+f_{bias})">. This is a linear model too, but lump all bias terms into the y-intercept from your fit. Assess if bias terms are realistic errors in their associated experimental parameters.
+* Note: do not ignore your y-intercept. I'll likely be non-zero, indicating some bias in the data. Your model should be <img src="https://render.githubusercontent.com/render/math?math=f%2Bf_{bias}=\frac{g\mu_N}{h}(f%2Bf_{bias})">. 
+* This is a linear model too, but lump all bias terms into the y-intercept and equate to that from your fit. Assess if bias terms are realistic errors in their associated experimental parameters.
 
 

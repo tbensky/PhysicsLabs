@@ -29,6 +29,7 @@ It is hoped the "quaratine versions" of the labs will allow the student to have 
 * [Lab 11: Sun Photometry](https://github.com/tbensky/PhysicsLabs#lab-11-sun-photometry)
 * [Lab 12: Pulsed NMR](https://github.com/tbensky/PhysicsLabs#lab-12-pulsed-nmr)
 * [Lab 13: Single photon interference](https://github.com/tbensky/PhysicsLabs#lab-13-single-photon-interference)
+* [Lab 14: NMR]
 
 
 ## Lab 1: Cratering
@@ -656,6 +657,37 @@ To answer this, you need to learn a bit about "Quantum Electrodynamics,"" or "QE
 Please discuss what a single photon does when it encounters a double slit, in your report. [This paper](https://github.com/tbensky/PhysicsLabs/blob/master/Labs/SinglePhotonInterference/2005%20Hanc%2C%20The%20Feynman%20quantum%20mechanics%20with%20the%20help%20of%20Java%20applets%20and%20physlets%20in%20Slovakia.pdf) may help you along as well. I am waiting for someone (a student) to code up some nice animations of photons flying around with Feynman's clocks on them.
 
 
+## Lab 14: NMR
 
+This is a classical continuous-wave 15 MHz NMR (B0 is around 5000G). A wiggler B is superimposed on B0 to make finding spin-flip resonances possible and persistent on an oscillscope. Samples of CuSO4 (in water) and PTFE are analyzed.  The DC magnetic field vs injection current needs to be calibrated with a Hall probe. After this, currents are set and resonance frequencies are found by slowing scanning f and looking for resonances to show up the oscilloscope.  The frequency f is then fine-tuned by making sure the resonances, as passed through by the wiggler B, are equally spaced.
+
+### Equipment tour
+
+* [Overall tour](https://youtu.be/dCG8l3boccA)
+* [Use of the oscilloscope](https://youtu.be/_oA07rFD1Ts)
+* [Tour of a resonance signal](https://youtu.be/ASiffl_8dkc)
+
+### Taking data
+
+#### Preface 
+* [How data is taken](https://youtu.be/5_caDHRQsOA)
+* [Finding B from I]()
+
+### Data for CuSO4 in water
+
+* [Data 01]()
+* [Data 02]()
+* [Data 03]()
+* [Data 04]()
+* [Data 05]()
+* [Data 06]()
+
+### Data for PTFE
+* See `PTFE` folder
+
+### Time domain of resonance signal
+* See `res_pics` folder
+
+### Data taking
 
 

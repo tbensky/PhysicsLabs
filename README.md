@@ -673,7 +673,7 @@ This is a classical continuous-wave 15 MHz NMR (B0 is around 5000G). A wiggler B
 * [How data is taken](https://youtu.be/5_caDHRQsOA)
 * [Finding B from I](https://youtu.be/pVNh7gwFl2Q) (That is, the DC magnetic field in the electromagnet from the current injected into the magnet.)
 
-### Data for CuSO4 in water
+#### Data for CuSO4 in water
 
 * [Data 01](https://youtu.be/Nhc1dZl4CX8)
 * [Data 02](https://youtu.be/x0Nv_5Pkvvw)
@@ -682,7 +682,7 @@ This is a classical continuous-wave 15 MHz NMR (B0 is around 5000G). A wiggler B
 * [Data 05](https://youtu.be/k77DrTQ5XuU)
 * [Data 06](https://youtu.be/9wMs_Lihn-U)
 
-### Data for PTFE
+#### Data for PTFE
 * See `PTFE` folder
 
 ### Time domain of resonance signal

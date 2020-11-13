@@ -29,7 +29,8 @@ It is hoped the "quaratine versions" of the labs will allow the student to have 
 * [Lab 11: Sun Photometry](https://github.com/tbensky/PhysicsLabs#lab-11-sun-photometry)
 * [Lab 12: Pulsed NMR](https://github.com/tbensky/PhysicsLabs#lab-12-pulsed-nmr)
 * [Lab 13: Single photon interference](https://github.com/tbensky/PhysicsLabs#lab-13-single-photon-interference)
-* [Lab 14: NMR](https://github.com/tbensky/PhysicsLabs#lab-14-nmr)
+* [Lab 14: NMR](https://github.com/tbensky/PhysicsLabs#lab-14-nmr)\
+* [Lab 15: Transmissiom line]()
 
 
 ## Lab 1: Cratering
@@ -696,3 +697,37 @@ This is a classical continuous-wave 15 MHz NMR (B0 is around 5000G). A wiggler B
 * This is a linear model too, but lump all bias terms into the y-intercept and equate to that from your fit. Assess if bias terms are realistic errors in their associated experimental parameters.
 
 
+## Lab 14: Transmission Line
+
+This lab takes a close look at the electrical properties of a coaxial transmission line.
+
+### Equipment tour
+
+* [Overall tour]()
+* [Inside of a transmission line]()
+* [Other equipment and a circuitboard]()
+* [Tour of inductive resonance]()
+
+### Taking data
+
+#### Measurements of inductance via a LC resonance
+
+* [Inductive resonance with 1uF capacitor]()
+* [Inductive resonance with 10uF capacitor]()
+* [Inductive resonance with 267nF capacitor]()
+* [Inductive resonance with a LRC Meter]()
+
+
+#### Measurements of capacitance with an RC voltage divide
+
+* [Capaicitance measurement]()
+
+#### Measuring R with a meter
+
+* [R with meter]()
+
+#### Sending a pulse down the transmission line
+
+* [Tour of pulse generator and connections]()
+* [Look at the mystery feature]()
+* [Data taking of load resistance vs. mystery feature amplitude]()

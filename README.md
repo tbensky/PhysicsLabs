@@ -705,13 +705,14 @@ This lab takes a close look at the electrical properties of a coaxial transmissi
 
 * [Overall tour]()
 * [Inside of a transmission line]()
-* [Other equipment and a circuitboard]()
-* [Tour of inductive resonance]()
+* [Other equipment and a circuitboard](https://youtu.be/snVLvWVOnBM)
+
 
 ### Taking data
 
 #### Measurements of inductance of transmission line via a LC resonance
 
+* [Tour of inductive resonance](https://youtu.be/UG4hk_o789M)
 * [Inductive resonance with 1uF capacitor]()
 * [Inductive resonance with 10uF capacitor]()
 * [Inductive resonance with 267nF capacitor]()

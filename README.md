@@ -715,7 +715,7 @@ This lab takes a close look at the electrical properties of a coaxial transmissi
 * [Inductive resonance with 1uF capacitor]()
 * [Inductive resonance with 10uF capacitor]()
 * [Inductive resonance with 267nF capacitor]()
-* [Inductive resonance with a LRC Meter]()
+* [Inductance measured with a LRC Meter]()
 
 
 #### Measurements of capacitance of transmission line with an RC voltage divide

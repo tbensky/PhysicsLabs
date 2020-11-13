@@ -703,8 +703,8 @@ This lab takes a close look at the electrical properties of a coaxial transmissi
 
 ### Equipment tour
 
-* [Overall tour]()
-* [Inside of a transmission line]()
+* [Overall tour](https://youtu.be/6AwxPUIaDUo)
+* [Inside of a transmission line](https://youtu.be/F9iHwiZaxZMx)
 * [Other equipment and a circuitboard](https://youtu.be/snVLvWVOnBM)
 
 
@@ -713,22 +713,22 @@ This lab takes a close look at the electrical properties of a coaxial transmissi
 #### Measurements of inductance of transmission line via a LC resonance
 
 * [Tour of inductive resonance](https://youtu.be/UG4hk_o789M)
-* [Inductive resonance with 1uF capacitor]()
-* [Inductive resonance with 10uF capacitor]()
-* [Inductive resonance with 267nF capacitor]()
-* [Inductance measured with a LRC Meter]()
+* [Inductive resonance with 1uF capacitor](https://youtu.be/QzaTvyEtGMQ)
+* [Inductive resonance with 10uF capacitor](https://youtu.be/Tsv3Pc-vW9s)
+* [Inductive resonance with 267nF capacitor](https://youtu.be/6Y7gvxDE2_Y)
+* [Inductance measured with a LRC Meter](https://youtu.be/MDmL8kHbMcY)
 
 
 #### Measurements of capacitance of transmission line with an RC voltage divide
 
-* [Capaicitance measurement]()
+* [Capaicitance measurement](https://youtu.be/nLA0kg_IrIs)
 
 #### Measuring R of transmission line with a meter
 
-* [R with meter]()
+* [R with meter](https://youtu.be/Ajme5iIm-IM)
 
 #### Sending a pulse down the transmission line
 
-* [Tour of pulse generator and connections]()
-* [Look at the mystery feature]()
-* [Data taking of load resistance vs. mystery feature amplitude]()
+* [Tour of pulse generator and connections](https://youtu.be/gw4dLy3bJAc)
+* [Look at the mystery feature](https://youtu.be/tqk2nNSBQB8)
+* [Data taking of load resistance vs. mystery feature amplitude](https://youtu.be/XEj0A9s21H8)

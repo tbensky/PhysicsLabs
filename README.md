@@ -710,7 +710,7 @@ This lab takes a close look at the electrical properties of a coaxial transmissi
 
 ### Taking data
 
-#### Measurements of inductance via a LC resonance
+#### Measurements of inductance of transmission line via a LC resonance
 
 * [Inductive resonance with 1uF capacitor]()
 * [Inductive resonance with 10uF capacitor]()
@@ -718,11 +718,11 @@ This lab takes a close look at the electrical properties of a coaxial transmissi
 * [Inductive resonance with a LRC Meter]()
 
 
-#### Measurements of capacitance with an RC voltage divide
+#### Measurements of capacitance of transmission line with an RC voltage divide
 
 * [Capaicitance measurement]()
 
-#### Measuring R with a meter
+#### Measuring R of transmission line with a meter
 
 * [R with meter]()
 

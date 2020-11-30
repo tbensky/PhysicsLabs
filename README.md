@@ -32,6 +32,7 @@ It is hoped the "quaratine versions" of the labs will allow the student to have 
 * [Lab 14: NMR](https://github.com/tbensky/PhysicsLabs#lab-14-nmr)
 * [Lab 15: Transmission line](https://github.com/tbensky/PhysicsLabs#lab-14-transmission-line)
 * [Lab 16: Gamma-ray Monte Carlo Simulation](https://github.com/tbensky/PhysicsLabs#lab-16-gamma-ray-monte-carlo-simulation)
+* [Lab 17: Exploring Planck's Constant using LEDs](https://github.com/tbensky/PhysicsLabs#lab-17-exploring-plancks-constant-using-leds)
 
 ## Lab 1: Cratering
 

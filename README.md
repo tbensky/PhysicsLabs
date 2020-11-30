@@ -771,5 +771,3 @@ We however, hold this lab as an "exploration," not a definitive source for findi
 
 * Here is a [guide](https://github.com/tbensky/PhysicsLabs/blob/master/Labs/PlanckLED/planckled.pdf) to doing the experiment.
 
-The guide takes a cautious approach, as the key relation that makes this lab work is unproven.  Substantial drawing from previous work and papers is included in this guide.
-

@@ -717,6 +717,7 @@ This lab takes a close look at the electrical properties of a coaxial transmissi
 * [Inductive resonance with 10uF capacitor](https://youtu.be/Tsv3Pc-vW9s)
 * [Inductive resonance with 267nF capacitor](https://youtu.be/6Y7gvxDE2_Y)
 * [Inductance measured with a LRC Meter](https://youtu.be/MDmL8kHbMcY)
+* [Transmission line as a "lump" circuit element argument](https://youtu.be/ZKdnZr5La2g)
 
 
 #### Measurements of capacitance of transmission line with an RC voltage divide

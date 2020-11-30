@@ -746,3 +746,13 @@ does as it enters an NaI detector.  The output should be a reasonable prediction
 * Here are pre-programmed [Matlab functions](https://github.com/tbensky/PhysicsLabs/blob/master/Labs/GammaRayMonteCarlo/functions.m) for the cross sections and Klein-Nishina are here.
 
 
+## Lab 17: Exploring Planck's Constant using LEDs
+
+Finding Planck's constant using LEDs is an interesting, but unproven technique. It's hard to ignore, because the
+equipment required to get an estimate for Planck's constant is nothing more than a few LEDs, a power suppy, a potentiometer,
+and a couple of voltmeters.
+
+* Here is a [guide](https://github.com/tbensky/PhysicsLabs/blob/master/Labs/PlanckLED/planckled.pdf) to doing the experiment.
+* The guide takes a cautious approach, as the key relation that makes this lab work is unproven.
+* Substantial drawing from previous work and papers is included in this guide.
+

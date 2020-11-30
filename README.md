@@ -737,7 +737,7 @@ This lab takes a close look at the electrical properties of a coaxial transmissi
 * [Data taking of load resistance vs. mystery feature amplitude](https://youtu.be/XEj0A9s21H8)
 
 
-## Lab 15: Gamma-ray Monte Carlo simulation
+## Lab 16: Gamma-ray Monte Carlo simulation
 
 This is a computer-based lab.  The goal of it is to write a Monte Carlo simulation to track what a 0.663 MeV gamma-ray
 does as it enters an NaI detector.  The output should be a reasonable prediction of a Cs-137 gamma-ray spectrum.

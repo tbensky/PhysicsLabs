@@ -700,8 +700,11 @@ This is a classical continuous-wave 15 MHz NMR (B0 is around 5000G). A wiggler B
 
 ## Lab 14: Transmission Line Exploration
 
-This lab explores the electrical properties of a coaxial transmission line, both from a theoretical and experimental perspective.  The outcome
-is an estimate of the characteristic impedance of the transmission line.
+This lab explores the electrical properties of a coaxial transmission line, both from a theoretical and experimental perspective.  A variety of
+measurment techiques are applied to a 1000 ft of RG-5U coaxial cable to find the capacitance (C) and inductuance (L) of the line.  The lab then goes
+on to a variety of estimates of the characteristic impedance of the line from C and L and pulse propagation observations.   
+
+The core outcome is an estimate of the characteristic impedance of the transmission line.
 
 ### Documentation
 
@@ -744,7 +747,8 @@ is an estimate of the characteristic impedance of the transmission line.
 ## Lab 16: Gamma-ray Monte Carlo simulation
 
 This is a computer-based lab.  The goal of it is to write a Monte Carlo simulation to track what a 0.663 MeV gamma-ray
-does as it enters an NaI detector.  The output should be a reasonable prediction of a Cs-137 gamma-ray spectrum.
+does as it enters an NaI detector.  The output goal is to produce a simulated Cs-137 gamma-ray spectrum. Both small, 
+large and very large detector regimes are explored.
 
 ### Documentation
 

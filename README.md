@@ -749,9 +749,14 @@ does as it enters an NaI detector.  The output should be a reasonable prediction
 
 ## Lab 17: Exploring Planck's Constant using LEDs
 
-Finding Planck's constant using LEDs is an interesting, but unproven technique. It's hard to ignore, because the
-equipment required to get an estimate for Planck's constant is nothing more than a few LEDs, a power suppy, a potentiometer,
-and a couple of voltmeters.
+Finding Planck's constant using LEDs works. It is true that one can find Planck's contant using a few LEDs and a couple of voltmeters. 
+Another technique uses a capacitor and RC discharge circuit.
+
+The key relationship in the theory, that leads to a curve fit, and Planck's constant is unproven though.  The relationship is that the threhold voltage for LED emission is equal to the band-gap energy (divided by e). 
+
+This lab is worth doing because the circuits to do the measurments can be built at home by the students, has several thought
+provoking issues, and ends up delivering a pretty good estimate for Planck's constant.
+
 
 * Here is a [guide](https://github.com/tbensky/PhysicsLabs/blob/master/Labs/PlanckLED/planckled.pdf) to doing the experiment.
 * The guide takes a cautious approach, as the key relation that makes this lab work is unproven.

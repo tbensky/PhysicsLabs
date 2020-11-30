@@ -757,10 +757,10 @@ does as it enters an NaI detector.  The output should be a reasonable prediction
 
 ## Lab 17: Exploring Planck's Constant using LEDs
 
-Estimating Planck's constant using LEDs works: one can indeed estimate Planck's contant to within 5-10% using a few LEDs, battery, resistor, and a couple of voltmeters. 
-Another technique uses a capacitor and RC discharge circuit.
+Estimating Planck's constant using LEDs works: one can indeed estimate Planck's contant to within 5-10% using a few LEDs, battery, resistor, and a couple of voltmeters. Using
+this, one generates I-V curves for a variety of LEDS. Another technique uses a capacitor and RC discharge circuit. Both lead to an emission threshold voltage for a given LED.
 
-The key relationship in the theory, that leads to a curve fit, and Planck's constant is unproven though.  The relationship is that the threhold voltage for LED emission is equal to the band-gap energy (divided by e). 
+The key relationship in the theory, that leads to a curve fit (and Planck's constant) is unproven though.  The relationship is that the threhold voltage for LED emission is equal to the band-gap energy (divided by e). But although unproven, it seems to work.
 
 This lab is worth doing because the circuits to do the measurments can be built at home by the students, has several thought
 provoking issues, and ends up delivering a pretty good estimate for Planck's constant.

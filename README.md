@@ -735,3 +735,14 @@ This lab takes a close look at the electrical properties of a coaxial transmissi
 * [Tour of pulse generator and connections](https://youtu.be/gw4dLy3bJAc)
 * [Look at the mystery feature](https://youtu.be/tqk2nNSBQB8)
 * [Data taking of load resistance vs. mystery feature amplitude](https://youtu.be/XEj0A9s21H8)
+
+
+## Lab 15: Gamma-ray Monte Carlo simulation
+
+This is a computer-based lab.  The goal of it is to write a Monte Carlo simulation to track what a 0.663 MeV gamma-ray
+does as it enters an NaI detector.  The output should be a reasonable prediction of a Cs-137 gamma-ray spectrum.
+
+* Here is a [guide]() to writing the simulation.
+* Matlab functions for the cross sections and Klein-Nishina are here.
+
+

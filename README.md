@@ -31,7 +31,7 @@ It is hoped the "quaratine versions" of the labs will allow the student to have 
 * [Lab 13: Single photon interference](https://github.com/tbensky/PhysicsLabs#lab-13-single-photon-interference)
 * [Lab 14: NMR](https://github.com/tbensky/PhysicsLabs#lab-14-nmr)
 * [Lab 15: Transmission line](https://github.com/tbensky/PhysicsLabs#lab-14-transmission-line)
-
+* [Lab 16: Gamma-ray Monte Carlo Simulation](https://github.com/tbensky/PhysicsLabs#lab-16-gamma-ray-monte-carlo-simulation)
 
 ## Lab 1: Cratering
 
@@ -742,7 +742,7 @@ This lab takes a close look at the electrical properties of a coaxial transmissi
 This is a computer-based lab.  The goal of it is to write a Monte Carlo simulation to track what a 0.663 MeV gamma-ray
 does as it enters an NaI detector.  The output should be a reasonable prediction of a Cs-137 gamma-ray spectrum.
 
-* Here is a [guide]() to writing the simulation.
-* Matlab functions for the cross sections and Klein-Nishina are here.
+* Here is a [guide](https://github.com/tbensky/PhysicsLabs/blob/master/Labs/GammaRayMonteCarlo/monte.pdf) to writing the simulation.
+* Here are pre-programmed [Matlab functions](https://github.com/tbensky/PhysicsLabs/blob/master/Labs/GammaRayMonteCarlo/functions.m) for the cross sections and Klein-Nishina are here.
 
 

@@ -703,6 +703,8 @@ This is a classical continuous-wave 15 MHz NMR (B0 is around 5000G). A wiggler B
 This lab explores the electrical properties of a coaxial transmission line, both from a theoretical and experimental perspective.  The outcome
 is an estimate of the characteristic impedance of the transmission line.
 
+### Documentation
+
 * Here is a [write-up](https://github.com/tbensky/PhysicsLabs/blob/master/Labs/TransmissionLine/transline.pdf) for what to do and look for in this lab.
 
 ### Equipment tour
@@ -744,7 +746,12 @@ is an estimate of the characteristic impedance of the transmission line.
 This is a computer-based lab.  The goal of it is to write a Monte Carlo simulation to track what a 0.663 MeV gamma-ray
 does as it enters an NaI detector.  The output should be a reasonable prediction of a Cs-137 gamma-ray spectrum.
 
+### Documentation
+
 * Here is a [guide](https://github.com/tbensky/PhysicsLabs/blob/master/Labs/GammaRayMonteCarlo/monte.pdf) to writing the simulation.
+
+### Code helpers
+
 * Here are pre-programmed [Matlab functions](https://github.com/tbensky/PhysicsLabs/blob/master/Labs/GammaRayMonteCarlo/functions.m) for the cross sections and Klein-Nishina are here.
 
 
@@ -760,8 +767,9 @@ provoking issues, and ends up delivering a pretty good estimate for Planck's con
 
 We however, hold this lab as an "exploration," not a definitive source for finding Planck's constant.
 
+### Documentation
 
 * Here is a [guide](https://github.com/tbensky/PhysicsLabs/blob/master/Labs/PlanckLED/planckled.pdf) to doing the experiment.
-* The guide takes a cautious approach, as the key relation that makes this lab work is unproven.
-* Substantial drawing from previous work and papers is included in this guide.
+
+The guide takes a cautious approach, as the key relation that makes this lab work is unproven.  Substantial drawing from previous work and papers is included in this guide.
 

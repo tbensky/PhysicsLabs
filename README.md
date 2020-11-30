@@ -20,7 +20,7 @@ It is hoped the "quaratine versions" of the labs will allow the student to have 
 * [Lab 5: Gamma-ray Scintillation](https://github.com/tbensky/PhysicsLabs#lab-5-gamma-ray-scintillation)
 * [Lab 6: Gamma-ray Scintillation: Counting Statistics](https://github.com/tbensky/PhysicsLabs#lab-6-gamma-ray-scintillation-high-and-low-count-statistics)
 * [Lab 7: Gamma-ray attenuation](https://github.com/tbensky/PhysicsLabs#lab-7-gamma-ray-attenuation)
-* [Lab 8: Waiting times between gamma-rays](https://github.com/tbensky/PhysicsLabs#lab-8-gamma-ray-waiting-times)
+* [Lab 8: Pulse Interval Timing](https://github.com/tbensky/PhysicsLabs#lab-8-gamma-ray-waiting-times)
 * [Lab 9: Magnetic Torque](https://github.com/tbensky/PhysicsLabs#lab-9-magnetic-torque)
 
 ### Part II
@@ -337,7 +337,7 @@ In this lab, we'll place thicker and thicker amounts of lead and aluminum betwee
 * From each coefficient, also find the "mass attenuation coefficient" to be compared with online references for such.
 
 
-## Lab 8: Gamma-ray waiting times
+## Lab 8: Pulse-interval timing
 
 When dealing with gamma-rays, we're most used to discussing how many our detection system detects in some time interval, like 845 counts/second, etc.  Suppose we instead wondered "once we detect a gamma ray, how long to we have to wait for the *next* gamma-ray?"  Would it be 1/845 seconds? If so, would this be a constant for a given source?  Measuring the "waiting time" between gamma-ray emissions is the goal of this experiment. An Arduino Uno will be used to do the timing.
 

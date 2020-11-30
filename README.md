@@ -699,7 +699,9 @@ This is a classical continuous-wave 15 MHz NMR (B0 is around 5000G). A wiggler B
 
 ## Lab 14: Transmission Line
 
-This lab takes a close look at the electrical properties of a coaxial transmission line.
+This lab takes a close look at the electrical properties of a coaxial transmission line. 
+
+* Here is a [write-up](https://github.com/tbensky/PhysicsLabs/blob/master/Labs/TransmissionLine/transline.pdf) for what to do and look for in this lab.
 
 ### Equipment tour
 

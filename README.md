@@ -20,11 +20,11 @@ It is hoped the "quaratine versions" of the labs will allow the student to have 
 * [Lab 5: Gamma-ray Scintillation](https://github.com/tbensky/PhysicsLabs#lab-5-gamma-ray-scintillation)
 * [Lab 6: Gamma-ray Scintillation: Counting Statistics](https://github.com/tbensky/PhysicsLabs#lab-6-gamma-ray-scintillation-high-and-low-count-statistics)
 * [Lab 7: Gamma-ray attenuation](https://github.com/tbensky/PhysicsLabs#lab-7-gamma-ray-attenuation)
-* [Lab 8: Pulse Interval Timing](https://github.com/tbensky/PhysicsLabs#lab-8-pulse-interval-timing)
-* [Lab 9: Magnetic Torque](https://github.com/tbensky/PhysicsLabs#lab-9-magnetic-torque)
 
 ### Part II
 
+* [Lab 8: Pulse Interval Timing](https://github.com/tbensky/PhysicsLabs#lab-8-pulse-interval-timing)
+* [Lab 9: Magnetic Torque](https://github.com/tbensky/PhysicsLabs#lab-9-magnetic-torque)
 * [Lab 10: Detecting Muons](https://github.com/tbensky/PhysicsLabs#lab-10-detecting-muons)
 * [Lab 11: Sun Photometry](https://github.com/tbensky/PhysicsLabs#lab-11-sun-photometry)
 * [Lab 12: Pulsed NMR](https://github.com/tbensky/PhysicsLabs#lab-12-pulsed-nmr)

@@ -30,7 +30,7 @@ It is hoped the "quaratine versions" of the labs will allow the student to have 
 * [Lab 12: Pulsed NMR](https://github.com/tbensky/PhysicsLabs#lab-12-pulsed-nmr)
 * [Lab 13: Single photon interference](https://github.com/tbensky/PhysicsLabs#lab-13-single-photon-interference)
 * [Lab 14: NMR](https://github.com/tbensky/PhysicsLabs#lab-14-nmr)
-* [Lab 15: Transmission line](https://github.com/tbensky/PhysicsLabs#lab-14-transmission-line)
+* [Lab 15: Transmission line exploration)(https://github.com/tbensky/PhysicsLabs#lab-14-transmission-line-exploration)
 * [Lab 16: Gamma-ray Monte Carlo Simulation](https://github.com/tbensky/PhysicsLabs#lab-16-gamma-ray-monte-carlo-simulation)
 * [Lab 17: Exploring Planck's Constant using LEDs](https://github.com/tbensky/PhysicsLabs#lab-17-exploring-plancks-constant-using-leds)
 
@@ -698,9 +698,10 @@ This is a classical continuous-wave 15 MHz NMR (B0 is around 5000G). A wiggler B
 * This is a linear model too, but lump all bias terms into the y-intercept and equate to that from your fit. Assess if bias terms are realistic errors in their associated experimental parameters.
 
 
-## Lab 14: Transmission Line
+## Lab 14: Transmission Line Exploration
 
-This lab takes a close look at the electrical properties of a coaxial transmission line. 
+This lab explores the electrical properties of a coaxial transmission line, both from a theoretical and experimental perspective.  The outcome
+is an estimate of the characteristic impedance of the transmission line.
 
 * Here is a [write-up](https://github.com/tbensky/PhysicsLabs/blob/master/Labs/TransmissionLine/transline.pdf) for what to do and look for in this lab.
 

@@ -771,3 +771,5 @@ We however, hold this lab as an "exploration," not a definitive source for findi
 
 * Here is a [guide](https://github.com/tbensky/PhysicsLabs/blob/master/Labs/PlanckLED/planckled.pdf) to doing the experiment.
 
+No video or image-derived data is given. The students will have to buy their own equipment, build some circuits from it, and run them to take data.
+

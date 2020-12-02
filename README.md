@@ -793,12 +793,12 @@ large and very large detector regimes are explored.
 
 Estimating Planck's constant using LEDs works: one can indeed estimate Planck's contant to within 5-10% using a few LEDs, battery, resistor, and a couple of voltmeters. In one technique, I-V curves are taken for a variety of LEDS. Another technique uses a capacitor and RC discharge circuit. Both technqiues lead to an emission threshold voltage for a given LED.  
 
-The key relationship for the theory, that leads to a curve fit (and Planck's constant) is unproven: that the threhold voltage for LED emission is equal to the band-gap energy (divided by e). But although unproven, it seems to work.
+An issue with this lab is that the key relationship for the theory, that leads to a curve fit (and Planck's constant) is unproven. The relationship in question is that the threhold voltage for LED emission is equal to the band-gap energy (divided by e). So although unproven, it does seems to work.
 
 A third technique can also be done, that involves evaluating LEDs driven at constant current. This technique is somewhat more bound to the real theory of operation for an LED, and also leads to Planck's constant.
 
-This lab is worth doing because the circuits to do the measurments can be built at home by the student, has several thought
-provoking issues, and ends up delivering a decent estimate for Planck's constant.
+Despite some controversy in the theory, this lab is worth doing because the circuits to do the measurments can be built at home by the student. There are several thought
+provoking issues, and ends up delivering a decent estimate for Planck's constant.  A close look at LED operation is also part of the lab.
 
 We however, hold this lab as an "exploration," not a definitive source for finding Planck's constant.
 

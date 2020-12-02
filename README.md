@@ -351,7 +351,7 @@ This is covered in [this lab](https://github.com/tbensky/PhysicsLabs#lab-10-dete
 
 ### Zener Diode Breakdown
 
-A zener diode will start to sporadically conduct as it's Zener voltage is slowly approached. This idea and lab is based on [this paper](https://eprint.iacr.org/2016/884.pdf).  The conduction can be see as 100mV, microsecond-long "blips" on an oscillscope.  Here is a sample.
+A zener diode will start to sporadically conduct as it's Zener voltage is slowly approached. This idea and lab is based on [this paper](https://eprint.iacr.org/2016/884.pdf).  The conduction can be see as \~200mV, microsecond-long "blips" on an oscillscope.  Here is a sample.
 
 ![Image of slit](https://github.com/tbensky/PhysicsLabs/blob/master/Labs/PulseIntervalTiming/Images/spikes.png)
 

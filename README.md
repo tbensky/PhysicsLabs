@@ -351,7 +351,7 @@ This is covered in [this lab](https://github.com/tbensky/PhysicsLabs#lab-10-dete
 
 ### Zener Diode Breakdown
 
-A zener diode will start to sporadically conduct as it's Zener voltage is slowly approached.  The conduction can be see as 100mV, microsecond-long "blips" on an oscillscope. Here is a sample.
+A zener diode will start to sporadically conduct as it's Zener voltage is slowly approached. This idea and lab is based on [this paper](https://eprint.iacr.org/2016/884.pdf).  The conduction can be see as 100mV, microsecond-long "blips" on an oscillscope.  Here is a sample.
 
 ![Image of slit](https://github.com/tbensky/PhysicsLabs/blob/master/Labs/PulseIntervalTiming/Images/spikes.png)
 
@@ -362,7 +362,9 @@ A zener diode will start to sporadically conduct as it's Zener voltage is slowly
 * A tour of the working circuit can be found [here](https://youtu.be/XYe5NGDQSmE).
 * Circuit assembly hints can be found [here](https://youtu.be/wJv6fEVaaRA), with a neater version [here](https://youtu.be/2udPSj1wQOE).
 
-See the pdf linked to above for more details.  
+Arduino code found [here](https://github.com/tbensky/PhysicsLabs/tree/master/Labs/PulseIntervalTiming/ArduinoCode) will log the pulses per second seen, or the intervals between pulses and display such to the serial monitor.  Pulses per second are actually pulses per 100 ms, and the intervals are displayed in microseconds.
+
+See the pdf linked to above for more details on building and operating the circuits.
 
 
 ### Gamma-Rays

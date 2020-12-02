@@ -340,14 +340,24 @@ In this lab, we'll place thicker and thicker amounts of lead and aluminum betwee
 
 ## Lab 8: Pulse-interval timing
 
-In many labs, we look at the pulses per second that arrive due to some process (think: gamma-ray emission). There is also equivalent information in looking at the time distribution between arriving pulses. This is "pulse interval timing."
+In many labs, we look at the pulses per second that arrive due to some process (think: gamma-ray emission). There is equivalent information in looking at the time distribution between arriving pulses. This is "pulse interval timing."
 
-In this lab, we'll look at three systems that involve pulse interval timing: Muon decay, Zener diode breakdown, and gamma-ray emissions.
+In this lab, we'll look at three systems that involve pulse interval timing: Muon decay, Zener diode breakdown, and gamma-ray emissions. These are all covered from a pulse-interval perspective [here](https://github.com/tbensky/PhysicsLabs/blob/master/Labs/PulseIntervalTiming/pulseint.pdf).
 
 
 ### Muon Decay
 
+This is covered in [this lab](https://github.com/tbensky/PhysicsLabs#lab-10-detecting-muons).
+
 ### Zener Diode Breakdown
+
+A zener diode will start to sporadically conduct as it's Zener voltage is slowly approached.  The conduction can be see as 100mV, microsecond-long "blips" on an oscillscope. These are conditioned for input to an Arduino using an LM311 comparator.
+
+* A tour of the working circuit can be found [here](https://youtu.be/XYe5NGDQSmE).
+* Circuit assembly hints can be found [here](https://youtu.be/wJv6fEVaaRA), with a neater version [here](https://youtu.be/2udPSj1wQOE).
+
+See the pdf linked to above for more details.  
+
 
 ### Gamma-Rays
 

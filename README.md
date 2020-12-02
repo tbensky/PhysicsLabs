@@ -778,3 +778,7 @@ We however, hold this lab as an "exploration," not a definitive source for findi
 
 No video or image-derived data is given. The student will have to buy their own equipment, build some circuits from it, and run them to take data.
 
+## Lab 17: Pulse Interval Timing
+
+
+

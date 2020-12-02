@@ -340,22 +340,33 @@ In this lab, we'll place thicker and thicker amounts of lead and aluminum betwee
 
 ## Lab 8: Pulse-interval timing
 
-When dealing with gamma-rays, we're most used to discussing how many our detection system detects in some time interval, like 845 counts/second, etc.  Suppose we instead wondered "once we detect a gamma ray, how long to we have to wait for the *next* gamma-ray?"  Would it be 1/845 seconds? If so, would this be a constant for a given source?  Measuring the "waiting time" between gamma-ray emissions is the goal of this experiment. An Arduino Uno will be used to do the timing.
+In many labs, we look at the pulses per second that arrive due to some process (think: gamma-ray emission). There is also equivalent information in looking at the time distribution between arriving pulses. This is "pulse interval timing."
 
-### Equipment tour
+In this lab, we'll look at three systems that involve pulse interval timing: Muon decay, Zener diode breakdown, and gamma-ray emissions.
+
+
+### Muon Decay
+
+### Zener Diode Breakdown
+
+### Gamma-Rays
+
+When dealing with gamma-rays, we're most used to discussing how many our detection system detects in some time interval, like 845 counts/second, etc.  Suppose we instead wondered "once we detect a gamma ray, how long to we have to wait for the *next* gamma-ray?"  Would it be 1/845 seconds? If so, would this be a constant for a given source?  Measuring the "waiting time" or "interval" between gamma-ray emissions is the goal of this experiment. An Arduino Uno will be used to do the timing.
+
+#### Equipment tour
 
 * [Interfacing detection equipment to an Arduino](https://youtu.be/6kceZKelflE)
 * [Introduction to TTL pulses](https://youtu.be/BcL3BDvsGlQ)
 * [The Arduino off and running](https://youtu.be/NFApVXQNKZY)
 * [Seeing multiple detection pulses on the oscilloscope](https://youtu.be/_bGbpDlWTOg)
 
-### Data taking
+#### Data taking
 
 In the `Data` folder you'll find two files:
 1. `cps.csv:` this contains over 8,000 counts/second measured using a scalar for a Cs137 source.
 1. `wait_times.csv:` contains over 8,000 microsecond wait times, measured by the Arduino, between successive pulses coming from the SCA.
 
-### Data Analysis
+#### Data Analysis
 
 * Histograms of the counts/second and waiting times should be made to reveal any distribution in long list of numbers.
 * The counts/second should be normally distributed.

@@ -34,6 +34,7 @@ It is hoped the "quaratine versions" of the labs will allow the student to have 
 * [Lab 16: Gamma-ray Monte Carlo Simulation](https://github.com/tbensky/PhysicsLabs#lab-16-gamma-ray-monte-carlo-simulation)
 * [Lab 17: Exploring Planck's Constant using LEDs](https://github.com/tbensky/PhysicsLabs#lab-17-exploring-plancks-constant-using-leds)
 
+
 ## Lab 1: Cratering
 
 Craters made by a projectile (like a small metal ball) in a porous material (like sand) follow a scaling law. Here is a [video](Labs/Cratering/Apparatus/slmo_crater.mov) of a crater being formed. This scaling law also includes large cratering events, like that of the Barringer Crater.  
@@ -778,7 +779,6 @@ We however, hold this lab as an "exploration," not a definitive source for findi
 
 No video or image-derived data is given. The student will have to buy their own equipment, build some circuits from it, and run them to take data.
 
-## Lab 18: Pulse Interval Timing
 
 
 

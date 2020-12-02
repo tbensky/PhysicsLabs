@@ -351,7 +351,13 @@ This is covered in [this lab](https://github.com/tbensky/PhysicsLabs#lab-10-dete
 
 ### Zener Diode Breakdown
 
-A zener diode will start to sporadically conduct as it's Zener voltage is slowly approached.  The conduction can be see as 100mV, microsecond-long "blips" on an oscillscope. These are conditioned for input to an Arduino using an LM311 comparator.
+A zener diode will start to sporadically conduct as it's Zener voltage is slowly approached.  The conduction can be see as 100mV, microsecond-long "blips" on an oscillscope. Here is a sample.
+
+![Image of slit](https://github.com/tbensky/PhysicsLabs/blob/master/Labs/PulseIntervalTiming/Images/spikes.png)
+
+ These are conditioned for input to an Arduino using an LM311 comparator, as shown in this circuit.
+
+![Image of slit](https://github.com/tbensky/PhysicsLabs/blob/master/Labs/PulseIntervalTiming/Images/circuit.png)
 
 * A tour of the working circuit can be found [here](https://youtu.be/XYe5NGDQSmE).
 * Circuit assembly hints can be found [here](https://youtu.be/wJv6fEVaaRA), with a neater version [here](https://youtu.be/2udPSj1wQOE).

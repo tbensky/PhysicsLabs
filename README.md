@@ -402,7 +402,7 @@ A cue ball has a magnet embedded in it.  It rides on an air bearing is made to o
 * Cue ball mass: 141.60 +/- 0.01 g.
 * Cue ball radius: 53.5 +/- 0.2 mm
 * Magnetic field: B(I)=(1.36 +/- 0.03) x 10^-3 I (in Teslas)
-* Coils: radius=0.109 m, distance between coils=0.138 m (so they're in the classic Helmholtz configuration)
+* Coils: N=195 turns, radius=0.109 m, distance between coils=0.138 m (so they're in the classic Helmholtz configuration)
 * Moment of inertia of the ball: <img src="https://render.githubusercontent.com/render/math?math=I=\frac{2}{5}mr^2">
 
 ### Data Taking

@@ -11,7 +11,7 @@ function ret = compton_scatter(E,theta)
     ret = E/(1+alpha*(1-cos(theta)));
 end
 
-function ret = P(E,theta)
+function ret = Pkn(E,theta)
     alpha = E/0.511;
     a = 1./(1+alpha.*(1-cos(theta)));
     b = (1+cos(theta).^2)/2;

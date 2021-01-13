@@ -1,9 +1,9 @@
 function p = Pcs(E)
-    p = 10^(0.1*exp(-0.5*E)+0.02);
+    p = 1.04713*exp(0.23*exp(-0.5*E))
 end
 
 function p = Ppa(E)
-    p = 10^(132*exp(-28*E)+0.005); 
+    p = 1.01158*10.^(132*exp(-28*E)) 
 end
 
 function ret = compton_scatter(E,theta)

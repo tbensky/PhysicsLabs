@@ -380,9 +380,9 @@ When dealing with gamma-rays, we're most used to discussing how many our detecti
 
 #### Data taking
 
-In the `Data` folder you'll find two files:
-1. `cps.csv:` this contains over 8,000 counts/second measured using a scalar for a Cs137 source.
-1. `wait_times.csv:` contains over 8,000 microsecond wait times, measured by the Arduino, between successive pulses coming from the SCA.
+In the `Data` folder you'll find two folders in the `PulseIntervalTiming/GammaRayData` folder:
+1. `CountsPerSecond` contains `counts_per_second.csv` which contains over 8,000 counts/second measured using a scalar for a Cs137 source.
+1. `TimeBetweenSCAPulseInMicroseconds` contains `times_between_sca_pulses.csv` which contains over 8,000 microsecond wait times, measured by the Arduino, between successive pulses coming from the SCA.
 
 #### Data Analysis
 

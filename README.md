@@ -33,8 +33,8 @@ It is hoped the "quaratine versions" of the labs will allow the student to have 
 * [Lab 15: Transmission line exploration](https://github.com/tbensky/PhysicsLabs#lab-14-transmission-line-exploration)
 * [Lab 16: Gamma-ray Monte Carlo Simulation](https://github.com/tbensky/PhysicsLabs#lab-16-gamma-ray-monte-carlo-simulation)
 * [Lab 17: Exploring Planck's Constant using LEDs](https://github.com/tbensky/PhysicsLabs#lab-17-exploring-plancks-constant-using-leds)
-* [Lab 18: Zeeman Effect]
-* [Lab 19: Optical Pumping]
+* [Lab 18: Zeeman Effect](https://github.com/tbensky/PhysicsLabs#lab-18-zeeman-effect)
+* [Lab 19: Optical Pumping](https://github.com/tbensky/PhysicsLabs#lab-19-optical-pumping)
 
 
 ## Lab 1: Cratering
@@ -820,11 +820,11 @@ No video or image-derived data is given. The student will have to buy their own 
 A Cd light source is immersed into an adjustable B-field of up to about 3000G.
 
 ### Introduction to the equipment
-* [Tour of the appataus]()
-* [Focus on the etalon, polarizer, and magnet]()
-* [More on the Etalon]()
-* [More about the magnet]()
-* [More about the polarizer]()
+* [Tour of the appataus](https://youtu.be/vXL8s2H2-8A)
+* [Focus on the etalon, polarizer, and magnet](https://youtu.be/eNYI0sLwh-o)
+* [More on the Etalon](https://youtu.be/GW7Q0KASIpY)
+* [More about the magnet](https://youtu.be/c3DeyC2erVY)
+* [More about the polarizer](https://youtu.be/5c3tYEIiBkw)
 
 ### The interference pattern
 * [Seeing the interference pattern coming from the Etalon]()
@@ -835,19 +835,27 @@ A Cd light source is immersed into an adjustable B-field of up to about 3000G.
 
 ### Notes on taking data
 
-To take data, you will swap the eyepiece for the line-camera.
-Be sure to tell the software that the imaging lens has a focal length of 150 mm.
-Directly from the camera and software, you can find the B=0 angle of a given maxima. Call this a1.
+* To take data, swap the eyepiece for the line-camera.
+
+* Be sure to tell the software that the imaging lens has a focal length of 150 mm.
+
+* Directly from the camera and software, you can find the B=0 angle of a given maxima. Call this a1.
 At some non-zero B, you can also find the angle at which a split maxima resides due to the Zeeman effect. Call this 
-a2.  Make a sketch of the outgoing beam from the Fabry-Perot.  Compute B1 and B2 using Snell's law at the camera side of the Fabry-Perot, from your 
-a1 and a2.  The index of refraction of the Fabry-Perot's glass is 1.46.  Fabry-Perot theory from optics says a given λ will show a maxima at 
-λ=2nt/mcosB, where t is the thickness of the Fabry-Perot, m is the order of the maxima, and n=1.46.
-Write this equation down for both λ1,B1 and λ2,B2.  Solve these simultaneously, and eliminate all variables except,
+a2. This can be on either the low or high side of a1.  
+
+* Make a sketch of the outgoing beam from the Fabry-Perot.  Compute B1 and B2 using Snell's law at the camera side of the Fabry-Perot, from your 
+a1 and a2.  The index of refraction of the Fabry-Perot's glass is 1.46.  Fabry-Perot theory from optics says a given λ will show a maxima at λ=2nt/mcosB, where t is the thickness of the Fabry-Perot, m is the order of the maxima, and n=1.46.
+
+
+* Write this equation down for both λ1,B1 and λ2,B2.  Solve these simultaneously, and eliminate all variables except,
 B1, λ2, B2. Recognize that λ1 is just the wavelength of the lamp (since B was zero for it). Rearrange things to find 
 Δλ/λ.  Next, you know that E=hc/λ. Find an expression for ΔE by differentiating this E=... equation WRT 
-λ and replacing the d's with Δ's.  Combine your equations from the last two steps to find a single equation for  
-ΔE that involves only h, c, λ and, Δλ. This is your Zeeman energy shift equation.  Confirm it works using this test data: 
-a1=0.74 degrees and a2==0.788 degree should give an energy splitting of 10.1 μeV.
+λ and replacing the d's with Δ's.  
+
+* Combine your equations from the last two steps to find a single equation for  
+ΔE that involves only h, c, λ and, Δλ. This is your Zeeman energy shift equation.  
+
+* Confirm it works using this test data: a1=0.74 degrees and a2==0.788 degree should give an energy splitting of 10.1 μeV.
 
 ### Taking data
 
@@ -856,6 +864,8 @@ a1=0.74 degrees and a2==0.788 degree should give an energy splitting of 10.1 μe
 * [Taking data #3]()
 
 ## Lab 19: Optical Pumping
+
+A mix of Rb85/87 vapor is immersed in a net horizontal magnetic field and irradiated with circularly polarized light at 797 nm. The B-field Zeeman splits the m(quantum number)-levels.  The sample becomes optically pumped, as electrons are driven to an m(quantum number)-extrema by the light.  RF is then applied at around 100kHz, depumping the m-levels. The combination of B and f(RF) at which depumping occurs is an indicator of the g-factor of a given isotope of Rb.
 
 ### Introduction to the equipment
 

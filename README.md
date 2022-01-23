@@ -843,8 +843,7 @@ A Cd light source is immersed into an adjustable B-field of up to about 3000G.
 At some non-zero B, you can also find the angle at which a split maxima resides due to the Zeeman effect. Call this 
 a2. This can be on either the low or high side of a1.  
 
-* Make a sketch of the outgoing beam from the Fabry-Perot.  Compute B1 and B2 using Snell's law at the camera side of the Fabry-Perot, from your 
-a1 and a2.  The index of refraction of the Fabry-Perot's glass is 1.46.  Fabry-Perot theory from optics says a given λ will show a maxima at λ=2nt/mcosB, where t is the thickness of the Fabry-Perot, m is the order of the maxima, and n=1.46.
+* Make a sketch of the outgoing beam from the Fabry-Perot.  Compute B1 and B2 using Snell's law at the camera side of the Fabry-Perot, from your a1 and a2.  The index of refraction of the Fabry-Perot's glass is 1.46.  Fabry-Perot theory from optics says a given λ will show a maxima at λ=2nt/mcosB, where t is the thickness of the Fabry-Perot, m is the order of the maxima, and n=1.46.
 
 
 * Write this equation down for both λ1,B1 and λ2,B2.  Solve these simultaneously, and eliminate all variables except,
@@ -869,21 +868,21 @@ A mix of Rb85/87 vapor is immersed in a net horizontal magnetic field and irradi
 
 ### Introduction to the equipment
 
-* [Tour of the equipment]()
-* [Tour of the coils]()
-* [Tour of the control box, P1]()
-* [Tour of the control box, P2]()
-* [Effects of the vertical B-field]()
+* [Tour of the equipment](https://youtu.be/aFflYuB5pJU)
+* [Tour of the coils](https://youtu.be/3Idk-lz0rrQ)
+* [Tour of the control box, Part 1](https://youtu.be/WpqHik39A5o)
+* [Tour of the control box, Part 2](https://youtu.be/H0cmKZv3G1o)
+* [Effects of the vertical B-field](https://youtu.be/vCuiXT0WDXs)
 
 ### Introduction to taking data
-* [Introduction]()
-* [What if the RF is off?]()
-* [What if the RF is on?]()
-* [Turning off the sweep]()
-* [Summary of data taking]()
+* [Introduction](https://youtu.be/l8DFK8GXjeY)
+* [What if the RF is off?](https://youtu.be/vpz3X0vTDvg)
+* [What if the RF is on?](https://youtu.be/GRsxbfp1H2w)
+* [Turning off the sweep](https://youtu.be/vVVNkmpExWo)
+* [Summary of data taking](https://youtu.be/wtGQcHED_YA)
 
 ### Taking data
-* [Take some data]()
+* [Take some data](https://youtu.be/ZU5vmInu5II)
 
 
 

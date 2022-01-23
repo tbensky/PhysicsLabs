@@ -33,6 +33,8 @@ It is hoped the "quaratine versions" of the labs will allow the student to have 
 * [Lab 15: Transmission line exploration](https://github.com/tbensky/PhysicsLabs#lab-14-transmission-line-exploration)
 * [Lab 16: Gamma-ray Monte Carlo Simulation](https://github.com/tbensky/PhysicsLabs#lab-16-gamma-ray-monte-carlo-simulation)
 * [Lab 17: Exploring Planck's Constant using LEDs](https://github.com/tbensky/PhysicsLabs#lab-17-exploring-plancks-constant-using-leds)
+* [Lab 18: Zeeman Effect]
+* [Lab 19: Optical Pumping]
 
 
 ## Lab 1: Cratering
@@ -154,7 +156,11 @@ A beam of electrons is sent through an evacualted glass sphere containing a trac
 Use [ImageJ](https://imagej.nih.gov/ij/download.html) to load in images and pick (x,y) points off of beam for analysis, as follows:
 
 1. Load image into ImageJ
-1. Set distance scale for image
+1. Set a origin (0,0) for your image
+	1. Move around the image until you're over horizontal axis on the grid, on the rightmost edge of the grid-plate.
+	1. Look under the toolbar, and note the (x,y) coordinates of this point. Jot them down.
+	1. Pull down Image->Properties and set the "Origin (pixels)" box to this x,y point.
+1. Set distance scale for your image
 	1. Draw a line covering a known physical distance
 	1. Analyze->Set scale...
 1. On the tool bar, right click on "point tool" to make it into "multipoint" tool.
@@ -807,6 +813,68 @@ We however, hold this lab as an "exploration," not a definitive source for findi
 * Here is a [guide](https://github.com/tbensky/PhysicsLabs/blob/master/Labs/PlanckLED/planckled.pdf) to doing the experiment.
 
 No video or image-derived data is given. The student will have to buy their own equipment, build some circuits from it, and run them to take data.
+
+
+## Lab 18: Zeeman Effect
+
+A Cd light source is immersed into an adjustable B-field of up to about 3000G.
+
+### Introduction to the equipment
+* [Tour of the appataus]()
+* [Focus on the etalon, polarizer, and magnet]()
+* [More on the Etalon]()
+* [More about the magnet]()
+* [More about the polarizer]()
+
+### The interference pattern
+* [Seeing the interference pattern coming from the Etalon]()
+* [The interference patterm when the polarizer is rotated]()
+
+### Introduction to taking data
+* [Tour of taking data]()
+
+### Notes on taking data
+
+To take data, you will swap the eyepiece for the line-camera.
+Be sure to tell the software that the imaging lens has a focal length of 150 mm.
+Directly from the camera and software, you can find the B=0 angle of a given maxima. Call this a1.
+At some non-zero B, you can also find the angle at which a split maxima resides due to the Zeeman effect. Call this 
+a2.  Make a sketch of the outgoing beam from the Fabry-Perot.  Compute B1 and B2 using Snell's law at the camera side of the Fabry-Perot, from your 
+a1 and a2.  The index of refraction of the Fabry-Perot's glass is 1.46.  Fabry-Perot theory from optics says a given λ will show a maxima at 
+λ=2nt/mcosB, where t is the thickness of the Fabry-Perot, m is the order of the maxima, and n=1.46.
+Write this equation down for both λ1,B1 and λ2,B2.  Solve these simultaneously, and eliminate all variables except,
+B1, λ2, B2. Recognize that λ1 is just the wavelength of the lamp (since B was zero for it). Rearrange things to find 
+Δλ/λ.  Next, you know that E=hc/λ. Find an expression for ΔE by differentiating this E=... equation WRT 
+λ and replacing the d's with Δ's.  Combine your equations from the last two steps to find a single equation for  
+ΔE that involves only h, c, λ and, Δλ. This is your Zeeman energy shift equation.  Confirm it works using this test data: 
+a1=0.74 degrees and a2==0.788 degree should give an energy splitting of 10.1 μeV.
+
+### Taking data
+
+* [Taking data #1]()
+* [Taking data #2]()
+* [Taking data #3]()
+
+## Lab 19: Optical Pumping
+
+### Introduction to the equipment
+
+* [Tour of the equipment]()
+* [Tour of the coils]()
+* [Tour of the control box, P1]()
+* [Tour of the control box, P2]()
+* [Effects of the vertical B-field]()
+
+### Introduction to taking data
+* [Introduction]()
+* [What if the RF is off?]()
+* [What if the RF is on?]()
+* [Turning off the sweep]()
+* [Summary of data taking]()
+
+### Taking data
+* [Take some data]()
+
 
 
 

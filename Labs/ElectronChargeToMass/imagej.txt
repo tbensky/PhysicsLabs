@@ -1,0 +1,15 @@
+ImageJ and e/m data
+
+1. Load image into ImageJ
+
+2. Scale image step 1: Draw a line covering a known distance
+
+3. Scale image step 2: Image->Scale
+
+4. On the tool bar, right click on "point tool" to make it into "multipoint" tool.
+
+5. Click along electron beam path. Small yellow numbered point/placeholders should appear.
+
+6. Edit->Selection->Select None (if needed to clear/start over)
+
+7. File->Save As...->XY Coordinates

@@ -827,11 +827,11 @@ A Cd light source is immersed into an adjustable B-field of up to about 3000G.
 * [More about the polarizer](https://youtu.be/5c3tYEIiBkw)
 
 ### The interference pattern
-* [Seeing the interference pattern coming from the Etalon]()
-* [The interference patterm when the polarizer is rotated]()
+* [Seeing the interference pattern coming from the Etalon](https://youtu.be/QNhxyzEQess)
+* [The interference pattern when the polarizer is rotated](https://youtu.be/oMwl7Nowr8U)
 
 ### Introduction to taking data
-* [Tour of taking data]()
+* [Tour of taking data](https://youtu.be/8BuGuVR652A)
 
 ### Notes on taking data
 
@@ -859,9 +859,9 @@ B1, λ2, B2. Recognize that λ1 is just the wavelength of the lamp (since B was 
 
 ### Taking data
 
-* [Taking data #1]()
-* [Taking data #2]()
-* [Taking data #3]()
+* [Taking data #1](https://youtu.be/uEyFzfwt-7g)
+* [Taking data #2](https://youtu.be/48oZEEXv-PY)
+* [Taking data #3](https://youtu.be/q1nwQTVqd1o)
 
 ## Lab 19: Optical Pumping
 

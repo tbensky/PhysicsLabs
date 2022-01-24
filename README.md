@@ -817,7 +817,7 @@ No video or image-derived data is given. The student will have to buy their own 
 
 ## Lab 18: Zeeman Effect
 
-A Cd light source is immersed into an adjustable B-field of up to about 3000G.
+A Cd light source is immersed into an adjustable B-field of up to about 3000G. Initially light output from the lamp is filtered via a polarizer perpendicular or parallel to the B-field, then sent into a Fabry-Perot interferometer with a λ/Δλ of about 1,000,000. This can resolve Zeeman split lines as a function of B-field strength.
 
 ### Introduction to the equipment
 * [Tour of the appataus](https://youtu.be/vXL8s2H2-8A)

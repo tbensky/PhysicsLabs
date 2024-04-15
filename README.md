@@ -68,6 +68,8 @@ The Data folder contains pairs of images, like `001_drop.jpg` and `001_crater.jp
 
 The speed of light here is measured using a time-of-flight measurement of a pulse of light then using
 
+$c=\frac{d}{t}$
+
 <p align="center">
 <img src="https://render.githubusercontent.com/render/math?math=c=\frac{d}{t}">
 </p>
